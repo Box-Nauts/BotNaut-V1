@@ -1,0 +1,6686 @@
+{
+  "players": {
+    "194576706860875776": {
+      "type": "Void",
+      "name": "TinyTank800",
+      "tokens": 998,
+      "wins": 25,
+      "loses": 16,
+      "gamesPlayed": 52,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 11
+    },
+    "219877909844721665": {
+      "type": "Psychic",
+      "name": "Sergeanty",
+      "tokens": 135,
+      "wins": 52,
+      "loses": 43,
+      "gamesPlayed": 97,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "809045646635696139": {
+      "type": "None",
+      "name": "Nanoth",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "279895603948027905": {
+      "type": "Void",
+      "name": "Explorer102389 | Tachibana’s SG",
+      "tokens": 16975,
+      "wins": 113,
+      "loses": 111,
+      "gamesPlayed": 255,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "491876486425346061": {
+      "type": "Psychic",
+      "name": "Galvator, Celestial King",
+      "tokens": 7183,
+      "wins": 11,
+      "loses": 11,
+      "gamesPlayed": 18,
+      "faction": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "236617826482257920": {
+      "type": "Electric",
+      "name": "e-virign Taps",
+      "tokens": 1747,
+      "wins": 374,
+      "loses": 290,
+      "gamesPlayed": 821,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "888439278504398959": {
+      "type": "Void",
+      "name": "WTRdRINKER",
+      "tokens": 15976,
+      "wins": 58,
+      "loses": 56,
+      "gamesPlayed": 138,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "569763169807892481": {
+      "type": "Electric",
+      "name": "Forklift whatever day it is",
+      "tokens": 175,
+      "wins": 1,
+      "loses": 4,
+      "gamesPlayed": 4,
+      "faction": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "577923661688864808": {
+      "type": "Electric",
+      "name": "Evannater | Tachibana’s Ghost",
+      "tokens": 1031,
+      "wins": 22,
+      "loses": 12,
+      "gamesPlayed": 35,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "398907393427243008": {
+      "type": "Zombie",
+      "name": "RedStealth︱Viking C's elder",
+      "tokens": 76,
+      "wins": 7,
+      "loses": 9,
+      "gamesPlayed": 19,
+      "faction": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "322240196886265857": {
+      "type": "Electric",
+      "name": "SiilentMelody | Celestial Lords",
+      "tokens": 347,
+      "wins": 4,
+      "loses": 5,
+      "gamesPlayed": 11,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 6
+    },
+    "222153421745160192": {
+      "type": "Air",
+      "name": "M0nkeyball | Tribe Enigma",
+      "tokens": 121324,
+      "wins": 22,
+      "loses": 34,
+      "gamesPlayed": 63,
+      "faction": 10,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 23,
+        "element": "Potassium",
+        "imageN": "6",
+        "type": "Fire",
+        "date": "2023-01-01T20:38:41.918Z"
+      }
+    },
+    "883096970481266708": {
+      "type": "Psychic",
+      "name": "ParaplegicLid",
+      "tokens": 21,
+      "wins": 2,
+      "loses": 15,
+      "gamesPlayed": 17,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "367588891777171466": {
+      "type": "Psychic",
+      "name": "Skaara_exe | Soul Crafters",
+      "tokens": 13399,
+      "wins": 47,
+      "loses": 31,
+      "gamesPlayed": 76,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 11
+    },
+    "818893638951370782": {
+      "type": "Electric",
+      "name": "Jasper | Gladiators Empire",
+      "tokens": 14652,
+      "wins": 451,
+      "loses": 443,
+      "gamesPlayed": 1042,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "497092355891920929": {
+      "type": "Nature",
+      "name": "maxem270",
+      "tokens": 267,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 6
+    },
+    "848305819048869898": {
+      "type": "Nature",
+      "name": "LUN|Alex96024",
+      "tokens": 526,
+      "wins": 0,
+      "loses": 6,
+      "gamesPlayed": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "679698179717201932": {
+      "type": "Air",
+      "name": "Little D v2",
+      "tokens": 4,
+      "wins": 10,
+      "loses": 16,
+      "gamesPlayed": 28,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "460769377189494785": {
+      "type": "Electric",
+      "name": "Aether",
+      "tokens": 6309,
+      "wins": 19,
+      "loses": 25,
+      "gamesPlayed": 44,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "318417412926078979": {
+      "type": "Void",
+      "name": "Vilius | Imperium's Emperor",
+      "tokens": 651,
+      "wins": 0,
+      "loses": 3,
+      "gamesPlayed": 3,
+      "faction": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "340924842855366656": {
+      "type": "Void",
+      "name": "CT-8421 Shadow Lord [OS]",
+      "tokens": 665,
+      "wins": 8,
+      "loses": 13,
+      "gamesPlayed": 19,
+      "faction": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "138703005158604801": {
+      "type": "Electric",
+      "name": "Ruuyji [Lunarians] (Dane)",
+      "tokens": 13,
+      "wins": 1,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "480404320907427840": {
+      "type": "Air",
+      "name": "Benito Scordino | Wife of Blake",
+      "tokens": 0,
+      "wins": 4,
+      "loses": 5,
+      "gamesPlayed": 10,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 14
+    },
+    "447497243637841920": {
+      "type": "Psychic",
+      "name": "Nab [Lt. The Imperium]",
+      "tokens": 815,
+      "wins": 21,
+      "loses": 20,
+      "gamesPlayed": 42,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 14
+    },
+    "606526807566450699": {
+      "type": "Nature",
+      "name": "Krokos777 :D",
+      "tokens": 13781,
+      "wins": 106,
+      "loses": 93,
+      "gamesPlayed": 234,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "533666662633701426": {
+      "type": "Electric",
+      "name": "KKF",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "618495983797534741": {
+      "type": "Electric",
+      "name": "Plvrucht",
+      "tokens": 16376,
+      "wins": 73,
+      "loses": 82,
+      "gamesPlayed": 153,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 14
+    },
+    "591575427248685056": {
+      "type": "Rock",
+      "name": "Lolsofish",
+      "tokens": 3304,
+      "wins": 15,
+      "loses": 29,
+      "gamesPlayed": 47,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 16
+    },
+    "779369428667727953": {
+      "type": "None",
+      "name": "Cubex|The Lunatic Cultist",
+      "tokens": 127,
+      "wins": 18,
+      "loses": 18,
+      "gamesPlayed": 40,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "728451362177941545": {
+      "type": "None",
+      "name": "Cobra gei",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "781836484768432160": {
+      "type": "Psychic",
+      "name": "Mrjai, the Moonlord | Lunarian",
+      "tokens": 9625,
+      "wins": 53,
+      "loses": 53,
+      "gamesPlayed": 119,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "235148962103951360": {
+      "type": "None",
+      "name": "Botnaut Carl",
+      "tokens": 137,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "761707201508540436": {
+      "type": "Void",
+      "name": "Mhm | $$$ generator of Tachibana",
+      "tokens": 3640,
+      "wins": 17,
+      "loses": 11,
+      "gamesPlayed": 28,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "558170296339660810": {
+      "type": "Poison",
+      "name": "Python | Lunarian’s Evangelist",
+      "tokens": 21,
+      "wins": 14,
+      "loses": 10,
+      "gamesPlayed": 26,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "693880685751959554": {
+      "type": "Poison",
+      "name": "Mr.Slime {Dutch 1}",
+      "tokens": 105483,
+      "wins": 13,
+      "loses": 10,
+      "gamesPlayed": 22,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 56,
+        "element": "Magnesium",
+        "imageN": "3",
+        "type": "Rock"
+      }
+    },
+    "918209313233858590": {
+      "type": "Zombie",
+      "name": "JakeFromStateFarm | The 8 Suns",
+      "tokens": 344,
+      "wins": 23,
+      "loses": 23,
+      "gamesPlayed": 51,
+      "faction": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "904149102823100487": {
+      "type": "Void",
+      "name": "LT_Lickme [MTF Unit 12]",
+      "tokens": 37,
+      "wins": 2,
+      "loses": 3,
+      "gamesPlayed": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "529034494007705611": {
+      "type": "Zombie",
+      "name": "Fallenphatom2056",
+      "tokens": 876,
+      "wins": 20,
+      "loses": 21,
+      "gamesPlayed": 46,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 12
+    },
+    "920691854448676884": {
+      "type": "None",
+      "name": "The Secret Service | Arc Legends",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "512677935723839508": {
+      "type": "Water",
+      "name": "thims07",
+      "tokens": 46,
+      "wins": 10,
+      "loses": 10,
+      "gamesPlayed": 19,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 14
+    },
+    "529703436791578644": {
+      "type": "Nature",
+      "name": "Happymeal Superfan",
+      "tokens": 118,
+      "wins": 3,
+      "loses": 9,
+      "gamesPlayed": 12,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "856566142222598225": {
+      "type": "None",
+      "name": "Ghost",
+      "tokens": 127,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "638017124174004224": {
+      "type": "Zombie",
+      "name": "Quinnary | Tachibana Clan",
+      "tokens": 5707,
+      "wins": 37,
+      "loses": 34,
+      "gamesPlayed": 79,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "694315980003737670": {
+      "type": "Poison",
+      "name": "DemonSabers | Assassins League",
+      "tokens": 3593,
+      "wins": 22,
+      "loses": 31,
+      "gamesPlayed": 60,
+      "faction": 12,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "470643117318602773": {
+      "type": "None",
+      "name": "-Sleepy-",
+      "tokens": 139,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "612945588065140746": {
+      "type": "Poison",
+      "name": "Voidster",
+      "tokens": 18,
+      "wins": 1,
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "386132865018101770": {
+      "type": "Electric",
+      "name": "No nickname till I win a tourney",
+      "tokens": 74,
+      "wins": 9,
+      "loses": 8,
+      "gamesPlayed": 18,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "699726837491957832": {
+      "type": "None",
+      "name": "SentinelChronos",
+      "tokens": 30,
+      "wins": 1,
+      "loses": 1,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "840011399354646548": {
+      "type": "Void",
+      "name": "Crimson [Sushi]",
+      "tokens": 5074,
+      "wins": 2,
+      "loses": 1,
+      "gamesPlayed": 2,
+      "faction": 9,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "516090856709685284": {
+      "type": "Psychic",
+      "name": "okMelon",
+      "tokens": 5014,
+      "wins": 1,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "729061715697991720": {
+      "type": "Air",
+      "name": "Deb | Imperium",
+      "tokens": 358,
+      "wins": 78,
+      "loses": 80,
+      "gamesPlayed": 175,
+      "faction": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "230484629226782720": {
+      "type": "Psychic",
+      "name": "BlueRabbitt | Soul Crafters",
+      "tokens": 677,
+      "wins": 8,
+      "loses": 17,
+      "gamesPlayed": 28,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 11
+    },
+    "190911046511362049": {
+      "type": "Fire",
+      "name": "Link | Rigged Jabber Nation",
+      "tokens": 388,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "896220921352847430": {
+      "type": "None",
+      "name": "bigboibob [Imperium]",
+      "tokens": 137,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "243503610695122947": {
+      "type": "Electric",
+      "name": "OGKabob-lunarians-yogurt slinger",
+      "tokens": 5472,
+      "wins": 10,
+      "loses": 6,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "553694478226030594": {
+      "type": "None",
+      "name": "Vico (DM or @ for support)",
+      "tokens": 7,
+      "wins": 0,
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "198586380622757890": {
+      "type": "Electric",
+      "name": "Scoutbrandon [The Drift League]",
+      "tokens": 17,
+      "wins": 1,
+      "loses": 2,
+      "gamesPlayed": 4,
+      "faction": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "430041518624210945": {
+      "type": "None",
+      "name": "Smooth!",
+      "tokens": 184,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "280607912882208768": {
+      "type": "None",
+      "name": "cabbage bun",
+      "tokens": 77,
+      "wins": 5,
+      "loses": 6,
+      "gamesPlayed": 11,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "451136071368048681": {
+      "type": "Void",
+      "name": "Vanity",
+      "tokens": 121,
+      "wins": 10,
+      "loses": 6,
+      "gamesPlayed": 17,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "482848627606290432": {
+      "type": "Void",
+      "name": "alli | Tachibana Clan",
+      "tokens": 264,
+      "wins": 7,
+      "loses": 17,
+      "gamesPlayed": 24,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "314496018362269697": {
+      "type": "Poison",
+      "name": "Foulsense | Assassins League",
+      "tokens": 4254,
+      "wins": 21,
+      "loses": 24,
+      "gamesPlayed": 55,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 12
+    },
+    "767556230310002698": {
+      "type": "Electric",
+      "name": "Dog || Lunarian Reaper",
+      "tokens": 38,
+      "wins": 5,
+      "loses": 6,
+      "gamesPlayed": 16,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "673912915547652121": {
+      "type": "Poison",
+      "name": "Northernwolf12 | The Convergence",
+      "tokens": 440,
+      "wins": 17,
+      "gamesPlayed": 33,
+      "loses": 11,
+      "faction": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "782935227395866638": {
+      "type": "Zombie",
+      "name": "NonsonoNicola",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "228871674097958912": {
+      "type": "None",
+      "name": "The IronChad | The Lunarians",
+      "tokens": 309,
+      "wins": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 14,
+      "loses": 2,
+      "gamesPlayed": 4
+    },
+    "299249568820756480": {
+      "type": "Rock",
+      "name": "Ekard",
+      "tokens": 7823,
+      "wins": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 7,
+      "loses": 2,
+      "faction": 0
+    },
+    "544953570240233483": {
+      "type": "None",
+      "name": "UgaChagaUga",
+      "tokens": 124,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "514799627241914378": {
+      "type": "None",
+      "name": "ape [russia monkey] | Imperium",
+      "tokens": 4,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "384567089165500416": {
+      "type": "Void",
+      "name": "CARLZIN",
+      "tokens": 17,
+      "wins": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 2,
+      "loses": 1
+    },
+    "159985870458322944": {
+      "type": "None",
+      "name": "MEE6",
+      "tokens": 218,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "868986754709979138": {
+      "type": "Zombie",
+      "name": "Xzycloïne | Bread",
+      "tokens": 7972,
+      "wins": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "loses": 6,
+      "gamesPlayed": 12,
+      "faction": 0
+    },
+    "170683265714356224": {
+      "type": "Void",
+      "name": "jare | Paper Bag Games",
+      "tokens": 14,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "611384393713582102": {
+      "type": "Void",
+      "name": "𝔈𝔮𝔲𝔦𝔫𝔬𝔵",
+      "tokens": 14,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "435780278473064448": {
+      "type": "Fire",
+      "name": "Nuddle",
+      "tokens": 205,
+      "wins": 3,
+      "loses": 4,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "683584215568351238": {
+      "type": "None",
+      "name": "Cleen",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "694911747143761980": {
+      "type": "Poison",
+      "name": "liαm",
+      "tokens": 744,
+      "wins": 4,
+      "loses": 10,
+      "gamesPlayed": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "775227458596372502": {
+      "type": "Void",
+      "name": "[The Convergence] Mathen",
+      "tokens": 10,
+      "wins": 0,
+      "loses": 3,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 4
+    },
+    "776428495789490186": {
+      "type": "Fire",
+      "name": "The Lemon Man",
+      "tokens": 6016,
+      "wins": 1,
+      "loses": 1,
+      "gamesPlayed": 3,
+      "faction": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "566528912763650079": {
+      "type": "None",
+      "name": "Mundal / Boxnauts",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "742007924498497606": {
+      "type": "Void",
+      "name": "valcanhoe",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "943107170059296778": {
+      "type": "Poison",
+      "name": "humptydumptyherobad",
+      "tokens": 42,
+      "wins": 3,
+      "loses": 3,
+      "gamesPlayed": 9,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "358897782381346818": {
+      "type": "Psychic",
+      "name": "MooseMars",
+      "tokens": 4,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 4
+    },
+    "633750667474763806": {
+      "type": "Rock",
+      "name": "S3a_Moose",
+      "tokens": 58,
+      "wins": 5,
+      "loses": 5,
+      "gamesPlayed": 10,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 2
+    },
+    "578038956319440936": {
+      "type": "None",
+      "name": "ThatOneSpacePanda",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "350469000582529035": {
+      "type": "Void",
+      "name": "𝓖𝓸𝓭𝓵𝔂 ♡",
+      "tokens": 12,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "553988438764945485": {
+      "type": "None",
+      "name": "Borito20 | Arc legendos? ¿",
+      "tokens": 3032,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 12
+    },
+    "261179915892686849": {
+      "type": "None",
+      "name": "[218.]TheLonelyWolf🐺",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "880163590965960756": {
+      "type": "None",
+      "name": "Glasses | Avatar",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "571399311770910731": {
+      "type": "Electric",
+      "name": "Plucat",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "909555743424905299": {
+      "type": "None",
+      "name": "HERO",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "478155201061322755": {
+      "type": "None",
+      "name": "Funniery",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "407627206618251274": {
+      "type": "None",
+      "name": "Cookie",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "804430560494616626": {
+      "type": "Nature",
+      "name": "DV",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "413507623925841930": {
+      "type": "Void",
+      "name": "LUMPYMELON",
+      "tokens": 61,
+      "wins": 2,
+      "loses": 5,
+      "gamesPlayed": 7,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "608811979842519080": {
+      "type": "None",
+      "name": "Whipcash",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "850689025521877042": {
+      "type": "Zombie",
+      "name": "ABCDE",
+      "tokens": 118,
+      "wins": 9,
+      "loses": 12,
+      "gamesPlayed": 23,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "680814146392162335": {
+      "type": "Void",
+      "name": "tacoboy🌮 | assassins league",
+      "tokens": 1910,
+      "wins": 86,
+      "loses": 47,
+      "gamesPlayed": 144,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 24,
+        "element": "Caesium",
+        "imageN": "7",
+        "type": "Void",
+        "date": "2022-12-26T18:44:22.946Z"
+      }
+    },
+    "895784417430229033": {
+      "type": "None",
+      "name": "Bob Nobody (Bringer TOS)",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 5
+    },
+    "294142469472256002": {
+      "type": "None",
+      "name": "Im a dad",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 2
+    },
+    "335965251608510475": {
+      "type": "None",
+      "name": "#BringBackCheeseSpam",
+      "tokens": 32,
+      "wins": 0,
+      "loses": 3,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "673214418128994315": {
+      "type": "None",
+      "name": "TCB",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "893414514593239062": {
+      "type": "Air",
+      "name": "mina10 | ALTAVA",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "458698927093448704": {
+      "type": "Fire",
+      "name": "leper1337",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "475959475313049601": {
+      "type": "None",
+      "name": "ذھعیوہد",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "728201184917323857": {
+      "type": "None",
+      "name": "Duckyツ",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "786690941909205073": {
+      "type": "Void",
+      "name": "Glitchwolf",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "834758348641271809": {
+      "type": "None",
+      "name": "H U M A N  𝔹𝕖𝕒𝕣",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "668875136182517760": {
+      "type": "None",
+      "name": "『Teun』",
+      "tokens": 637,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "799715674233765938": {
+      "type": "Water",
+      "name": "daanark",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "854422285757710357": {
+      "type": "None",
+      "name": "Tom nottop",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "741759467091132577": {
+      "type": "None",
+      "name": "parzapl",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "753183803807105086": {
+      "type": "Nature",
+      "name": "boxheadmcgee",
+      "tokens": 41,
+      "wins": 3,
+      "loses": 2,
+      "gamesPlayed": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "522838290467127297": {
+      "type": "None",
+      "name": "soup | boxnauts",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "948754699341926412": {
+      "type": "None",
+      "name": "wunkyfunky | Tachibana Clan",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "399694679731470336": {
+      "type": "None",
+      "name": "mr_slmander",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "772083313237950485": {
+      "type": "Electric",
+      "name": "TyingBow",
+      "tokens": 3,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 4
+    },
+    "687386785927659558": {
+      "type": "None",
+      "name": "Shark_sharon",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "767577808779345940": {
+      "type": "None",
+      "name": "T-Man | Assassins League",
+      "tokens": 503,
+      "wins": 3,
+      "loses": 5,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 12
+    },
+    "667727918062895106": {
+      "type": "None",
+      "name": "Violet|Lunarians",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "712742462858330155": {
+      "type": "None",
+      "name": "xLuca27",
+      "tokens": 2455,
+      "wins": 4,
+      "loses": 6,
+      "gamesPlayed": 10,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "734695191906353244": {
+      "type": "None",
+      "name": "the queen",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "245667559473545216": {
+      "type": "None",
+      "name": "Sajj",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "711592143478587454": {
+      "type": "None",
+      "name": "Rex. { Vibrant Nomads }",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "798632834490302484": {
+      "type": "None",
+      "name": "Circis2",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "529291328648118273": {
+      "type": "None",
+      "name": "Moistcheese",
+      "tokens": 129,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "506776721874223134": {
+      "type": "None",
+      "name": "Holy 🅱read 🍞 [From Poland]",
+      "tokens": 122,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "358990491766882307": {
+      "type": "None",
+      "name": "stachtsan",
+      "tokens": 137,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "951439752563933195": {
+      "type": "Fire",
+      "name": "kianisgay69",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "323433334103474177": {
+      "type": "None",
+      "name": "MacEgg",
+      "tokens": 377,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "843909700424958003": {
+      "type": "Water",
+      "name": "Rogue",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "886847504371548192": {
+      "type": "None",
+      "name": "Yeahfuxkno",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "525313721694945291": {
+      "type": "Electric",
+      "name": "NOAH | Lunarians",
+      "tokens": 3,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "882039565026734090": {
+      "type": "None",
+      "name": "TheFalcon5572",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "909093099995803688": {
+      "type": "Void",
+      "name": "[Y]VenomZ 🧊",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "747705324181389413": {
+      "type": "None",
+      "name": "Don∆",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "449637552710877184": {
+      "type": "None",
+      "name": "N3VAMIND",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "518276865035599875": {
+      "type": "None",
+      "name": "AverageJoeTr33 | Avatar",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "623953644651544598": {
+      "type": "Air",
+      "name": "baguette | Tachibana Clan",
+      "tokens": 5520,
+      "wins": 16,
+      "loses": 12,
+      "gamesPlayed": 28,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "659369601125318677": {
+      "type": "Air",
+      "name": "- Thenkey  | The Lunarian goat",
+      "tokens": 304,
+      "wins": 6,
+      "loses": 7,
+      "gamesPlayed": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "269290358859366400": {
+      "type": "None",
+      "name": "MartianPK",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "583188514989146122": {
+      "type": "Rock",
+      "name": "SimplyNotMatt [Lt. The Imperium]",
+      "tokens": 11,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "711111857427185715": {
+      "type": "Fire",
+      "name": "lavagamer010 yt",
+      "tokens": 19,
+      "wins": 1,
+      "loses": 3,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 5
+    },
+    "632627553206796327": {
+      "type": "Psychic",
+      "name": "Gullivershaw |  Boxnaut",
+      "tokens": 680,
+      "wins": 26,
+      "loses": 38,
+      "gamesPlayed": 64,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "328948041748971520": {
+      "type": "Air",
+      "name": "Snoaf",
+      "tokens": 24,
+      "wins": 2,
+      "loses": 2,
+      "gamesPlayed": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "376400919262265344": {
+      "type": "Void",
+      "name": "LunarBlitz",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "872290820458434560": {
+      "type": "None",
+      "name": "clip",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "839273519090106398": {
+      "type": "Poison",
+      "name": "1Emilio",
+      "tokens": 202,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "635858509224869888": {
+      "type": "None",
+      "name": "Digicraft",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "895588573129113602": {
+      "type": "None",
+      "name": "shaydeee__",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "562504623093710878": {
+      "type": "None",
+      "name": "Kake",
+      "tokens": 12,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "910890934684766222": {
+      "type": "None",
+      "name": "Pablo Escobar",
+      "tokens": 201,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "911315829029732391": {
+      "type": "None",
+      "name": "R02",
+      "tokens": 393,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "539066788013670412": {
+      "type": "None",
+      "name": "HeiligesBrot2006",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "263878120539422720": {
+      "type": "None",
+      "name": "Oopsie | Welcome Center",
+      "tokens": 6902,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "683712368278372403": {
+      "type": "None",
+      "name": "LasilokasTheLegendary",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "685903370548281430": {
+      "type": "None",
+      "name": "SixBeatle | Tachibana Clan",
+      "tokens": 346,
+      "wins": 16,
+      "loses": 12,
+      "gamesPlayed": 28,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "597869881093783582": {
+      "type": "None",
+      "name": "PunkFreaks",
+      "tokens": 0,
+      "wins": 3,
+      "loses": 4,
+      "gamesPlayed": 7,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "304300375299719181": {
+      "type": "None",
+      "name": "دیاكۆ",
+      "tokens": 4,
+      "wins": 2,
+      "loses": 0,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "490314475363368980": {
+      "type": "None",
+      "name": "butterscotch sandwich",
+      "tokens": 16,
+      "wins": 1,
+      "loses": 1,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "225037508650598410": {
+      "type": "None",
+      "name": "TankerZ",
+      "tokens": 39,
+      "wins": 3,
+      "loses": 2,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "954145544610152499": {
+      "type": "None",
+      "name": "goofyduck",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "954165566195789876": {
+      "type": "None",
+      "name": "Nodnarb",
+      "tokens": 95,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "482685366164258854": {
+      "type": "None",
+      "name": "Hippo",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "389895755239915520": {
+      "type": "None",
+      "name": "Bruce",
+      "tokens": 14,
+      "wins": 1,
+      "loses": 3,
+      "gamesPlayed": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "582379102934269992": {
+      "type": "None",
+      "name": "Duke_Diamond | Gathering Shores",
+      "tokens": 47,
+      "wins": 8,
+      "loses": 8,
+      "gamesPlayed": 16,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 16
+    },
+    "444931664737730561": {
+      "type": "None",
+      "name": "clavh",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "841641899747573771": {
+      "type": "None",
+      "name": "VeryTallMidget14",
+      "tokens": 26,
+      "wins": 6,
+      "loses": 8,
+      "gamesPlayed": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "798106732370067456": {
+      "type": "None",
+      "name": "Cryptic",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "573565888238714922": {
+      "type": "None",
+      "name": "HpSauce5634 - Assassins League",
+      "tokens": 217138,
+      "wins": 113,
+      "loses": 91,
+      "gamesPlayed": 222,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 12
+    },
+    "756168612112498728": {
+      "type": "None",
+      "name": "Toty",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "366963772432187393": {
+      "type": "None",
+      "name": "Boat_building",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "479912236987580417": {
+      "type": "None",
+      "name": "clxtch",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "889954062131400754": {
+      "type": "None",
+      "name": "bbox",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "829292121433440326": {
+      "type": "None",
+      "name": "LVBan",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "277410203916304406": {
+      "type": "None",
+      "name": "Hugyadi Mátyás",
+      "tokens": 2283,
+      "wins": 1,
+      "loses": 2,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "918366939208884244": {
+      "type": "None",
+      "name": "eyeconicmind",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "791975230703796245": {
+      "type": "None",
+      "name": "BBomb27",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "360097002664624131": {
+      "type": "None",
+      "name": "FullBodyApoptosis",
+      "tokens": 51,
+      "wins": 9,
+      "loses": 15,
+      "gamesPlayed": 24,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 12
+    },
+    "446106563988684801": {
+      "type": "None",
+      "name": "[Blank]",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "759044284086353922": {
+      "type": "None",
+      "name": "Sharky",
+      "tokens": 61,
+      "wins": 4,
+      "loses": 1,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 8
+    },
+    "805315691342331956": {
+      "type": "None",
+      "name": "HWW | Imperium",
+      "tokens": 27,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "536033666992963595": {
+      "type": "None",
+      "name": "mhm",
+      "tokens": 72,
+      "wins": 2,
+      "loses": 3,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "723909136345071666": {
+      "type": "None",
+      "name": "Endo",
+      "tokens": 4,
+      "wins": 2,
+      "loses": 0,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 12
+    },
+    "550729426095177743": {
+      "type": "None",
+      "name": "Bug",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "661432463792275487": {
+      "type": "None",
+      "name": "KNIGHT| Tachibana Clan",
+      "tokens": 503,
+      "wins": 3,
+      "loses": 4,
+      "gamesPlayed": 7,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "719777599399657522": {
+      "type": "None",
+      "name": "Yeeples",
+      "tokens": 139,
+      "wins": 4,
+      "loses": 3,
+      "gamesPlayed": 7,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 17
+    },
+    "399443685802246144": {
+      "type": "None",
+      "name": "sumfattytuna",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "667411407737847847": {
+      "type": "None",
+      "name": "mikeyp",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "623247112817213450": {
+      "type": "None",
+      "name": "Pinakanakapagpapabagabagdamdamin",
+      "tokens": 63,
+      "wins": 2,
+      "loses": 4,
+      "gamesPlayed": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "284110562965716992": {
+      "type": "None",
+      "name": "antnuts",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "398738655545393164": {
+      "type": "None",
+      "name": "Dinggo",
+      "tokens": 55,
+      "wins": 9,
+      "loses": 7,
+      "gamesPlayed": 17,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "243868772388044801": {
+      "type": "None",
+      "name": "Dzus",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "469853588349255680": {
+      "type": "None",
+      "name": "Witheractive | Sentinel's Guard",
+      "tokens": 1467,
+      "wins": 12,
+      "loses": 24,
+      "gamesPlayed": 36,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 8
+    },
+    "610018478816100373": {
+      "type": "None",
+      "name": "PANDAGGRO",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "763056878929969172": {
+      "type": "None",
+      "name": "ken-ツ",
+      "tokens": 157,
+      "wins": 1,
+      "loses": 4,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "709323521922433066": {
+      "type": "None",
+      "name": "volpe",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "691288466801164338": {
+      "type": "None",
+      "name": "Drutto",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "222887854215397376": {
+      "type": "None",
+      "name": "Justin*",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "352522843491139585": {
+      "type": "None",
+      "name": ".tobi",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "826226921423503361": {
+      "type": "None",
+      "name": "Peanut | Tachibana Clan",
+      "tokens": 371,
+      "wins": 25,
+      "loses": 57,
+      "gamesPlayed": 82,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "672515185541513248": {
+      "type": "None",
+      "name": "MadHatter",
+      "tokens": 20,
+      "wins": 0,
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "459693034662133760": {
+      "type": "None",
+      "name": "Based",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "694385632574701609": {
+      "type": "None",
+      "name": "cdhm99",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "563865772448022545": {
+      "type": "None",
+      "name": "Shea_Buttahz",
+      "tokens": 1288,
+      "wins": 46,
+      "loses": 34,
+      "gamesPlayed": 80,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "857261871424995399": {
+      "type": "None",
+      "name": "boorgir",
+      "tokens": 309,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 5
+    },
+    "732871852594298920": {
+      "type": "None",
+      "name": "darkscorpion",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "767761147901640705": {
+      "type": "None",
+      "name": "Janekrrr",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "565654089552363546": {
+      "type": "None",
+      "name": "A person",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "648655942652788736": {
+      "type": "None",
+      "name": "legend1gamer123",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "200026333953261571": {
+      "type": "None",
+      "name": "LUN | Saucy",
+      "tokens": 3583,
+      "wins": 27,
+      "loses": 7,
+      "gamesPlayed": 34,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "358663298779971584": {
+      "type": "None",
+      "name": "Anniken",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "684301852887613557": {
+      "type": "None",
+      "name": "Rarient",
+      "tokens": 501,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "129339867829239809": {
+      "type": "None",
+      "name": "rukia",
+      "tokens": 102,
+      "wins": 8,
+      "loses": 3,
+      "gamesPlayed": 11,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "803895662151204875": {
+      "type": "None",
+      "name": "Sunny",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "225441821315170304": {
+      "type": "None",
+      "name": "32",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 5,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "646738135342120970": {
+      "type": "None",
+      "name": "fatherless incarnate",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "846358526125146165": {
+      "type": "None",
+      "name": "Pucci of lunarians",
+      "tokens": 1298,
+      "wins": 13,
+      "loses": 14,
+      "gamesPlayed": 27,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "375909604858527746": {
+      "type": "None",
+      "name": "SuperPixel56",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "543128432217686016": {
+      "type": "None",
+      "name": "Sjapke_",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "958257658354364426": {
+      "type": "None",
+      "name": "TSS",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "531069018124058624": {
+      "type": "None",
+      "name": "mchicken",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "819494938689142815": {
+      "type": "None",
+      "name": "boxnaut blout",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "488512475256455169": {
+      "type": "None",
+      "name": "jester;",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "703971494786760764": {
+      "type": "None",
+      "name": "Titanwolf",
+      "tokens": 36,
+      "wins": 3,
+      "loses": 0,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "697196885794095196": {
+      "type": "None",
+      "name": "7poppop10",
+      "tokens": 6,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "912315767167541268": {
+      "type": "None",
+      "name": "piper wood",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "163953753127387136": {
+      "type": "None",
+      "name": "Sectormann",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 5
+    },
+    "132992415546998784": {
+      "type": "None",
+      "name": "oliverbv",
+      "tokens": 624,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "447422859816468480": {
+      "type": "None",
+      "name": "t3l",
+      "tokens": 9,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "391331626438885386": {
+      "type": "None",
+      "name": "Eldegold | Lunarians",
+      "tokens": 91,
+      "wins": 1,
+      "loses": 7,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "272967964779872258": {
+      "type": "None",
+      "name": "framboise de combat",
+      "tokens": 15,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "570749752262656048": {
+      "type": "None",
+      "name": "PolarKing",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "931732994954231859": {
+      "type": "None",
+      "name": "Codename_Jinx",
+      "tokens": 111,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "390097396195000322": {
+      "type": "None",
+      "name": "ArmaFall",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "826035968431357952": {
+      "type": "None",
+      "name": "GeorgeH",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "951291874893791263": {
+      "type": "None",
+      "name": "MR.ME24",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "391955010277343234": {
+      "type": "None",
+      "name": "Hands Off My |",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "451318504587657246": {
+      "type": "None",
+      "name": "Bielabomba",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "735464864486785108": {
+      "type": "None",
+      "name": "B3nd3x",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "883735789102563371": {
+      "type": "None",
+      "name": "Slipperyspider1",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "768381957049548810": {
+      "type": "None",
+      "name": "Kye",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "750477237865938976": {
+      "type": "None",
+      "name": "kaitos",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "711512903081001040": {
+      "type": "None",
+      "name": "Italian jesus",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "510211896604098570": {
+      "type": "None",
+      "name": "firewolf™",
+      "tokens": 5107,
+      "wins": 3,
+      "loses": 4,
+      "gamesPlayed": 7,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "360996818978603008": {
+      "type": "None",
+      "name": "levy",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "761587944301527090": {
+      "type": "None",
+      "name": "that guy",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "446785222546030603": {
+      "type": "None",
+      "name": "bobthebillio",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "933116147228889098": {
+      "type": "None",
+      "name": "Bruno☆",
+      "tokens": 19,
+      "wins": 1,
+      "loses": 2,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 13
+    },
+    "360170654869487616": {
+      "type": "None",
+      "name": "Black Fish  [The Drift League]",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "720944844830146560": {
+      "type": "None",
+      "name": "derp cat",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "419605534598103040": {
+      "type": "None",
+      "name": "Homze",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "417530497741094913": {
+      "type": "None",
+      "name": "GABE",
+      "tokens": 5508,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 0
+    },
+    "536092587329585153": {
+      "type": "None",
+      "name": "SIMBA | Lunarians",
+      "tokens": 936,
+      "wins": 4,
+      "loses": 19,
+      "gamesPlayed": 23,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "441747421916299279": {
+      "type": "None",
+      "name": "lil sleeper",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "650514333087825920": {
+      "type": "None",
+      "name": "Wow.",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "808898983941636126": {
+      "type": "None",
+      "name": "demongod",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "627008106450386944": {
+      "type": "None",
+      "name": "Zahhra",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "663803336268578852": {
+      "type": "None",
+      "name": "Optimus Prime-Time",
+      "tokens": 487,
+      "wins": 67,
+      "loses": 46,
+      "gamesPlayed": 113,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "faction": 14
+    },
+    "696553389365919804": {
+      "type": "None",
+      "name": "SoulKing",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "722478044501245962": {
+      "type": "None",
+      "name": "lexw2 luminary [TOS]",
+      "tokens": 14,
+      "wins": 2,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 1
+    },
+    "557628352828014614": {
+      "type": "None",
+      "name": "Ticket Tool",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "674959845337726996": {
+      "type": "None",
+      "name": ">lolo64<",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "711288064202506262": {
+      "type": "None",
+      "name": "Aléxia69",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "481124813729955841": {
+      "type": "None",
+      "name": "KomijaroGaming54",
+      "tokens": 32,
+      "wins": 2,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 1
+    },
+    "685566465461846111": {
+      "type": "None",
+      "name": "janickss",
+      "tokens": 26,
+      "wins": 1,
+      "loses": 6,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 6
+    },
+    "423946513581080584": {
+      "type": "None",
+      "name": "Like",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "950034874608287816": {
+      "type": "None",
+      "name": "Edrd_G",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "469988969023537155": {
+      "type": "None",
+      "name": "Jevtic",
+      "tokens": 612,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "460130509087834132": {
+      "type": "None",
+      "name": "Amyrs",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "235601095789903872": {
+      "type": "None",
+      "name": "Microsoft Power Point",
+      "tokens": 350,
+      "wins": 5,
+      "loses": 2,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 6
+    },
+    "442523425949614100": {
+      "type": "None",
+      "name": "hvnter",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "609229238255484943": {
+      "type": "None",
+      "name": "moredoing",
+      "tokens": 9,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "353642284614549504": {
+      "type": "None",
+      "name": "elrocco",
+      "tokens": 132,
+      "wins": 1,
+      "loses": 1,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 1
+    },
+    "732114678142074970": {
+      "type": "None",
+      "name": "Eivar27",
+      "tokens": 46,
+      "wins": 20,
+      "loses": 20,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 39
+    },
+    "707561173821685815": {
+      "type": "None",
+      "name": "Dark2205",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "664600718979891250": {
+      "type": "None",
+      "name": "swarm4chine",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "734082528201408563": {
+      "type": "None",
+      "name": "ElijahWither",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "961640435053371482": {
+      "type": "None",
+      "name": "Anderson Watts",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "694990054963019806": {
+      "type": "None",
+      "name": "desevyn",
+      "tokens": 51,
+      "wins": 15,
+      "loses": 9,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 23
+    },
+    "465686537246343171": {
+      "type": "None",
+      "name": "Koda",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "869533314590064700": {
+      "type": "None",
+      "name": "EPICxD3mon",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "689340149070692362": {
+      "type": "None",
+      "name": "BomderBaumeister",
+      "tokens": 27,
+      "wins": 1,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "271676285368008704": {
+      "type": "None",
+      "name": "TheLuk0",
+      "tokens": 147,
+      "wins": 1,
+      "loses": 3,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 3
+    },
+    "623370153039626280": {
+      "type": "None",
+      "name": "ZaPxDaT | Arc Legends",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "897903206296854580": {
+      "type": "None",
+      "name": "Broski",
+      "tokens": 4,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "697118073152340029": {
+      "type": "None",
+      "name": "$Choco4life",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "249855901836640265": {
+      "type": "None",
+      "name": "Kitsune",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "787057715703840799": {
+      "type": "None",
+      "name": "Bonnie BunBun",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "852617074382602292": {
+      "type": "None",
+      "name": "miyamoto musashi",
+      "tokens": 177,
+      "wins": 2,
+      "loses": 14,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 15
+    },
+    "733057780562526242": {
+      "type": "None",
+      "name": "WutThat",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "589632004698406922": {
+      "type": "None",
+      "name": "Explosive Destiny",
+      "tokens": 23,
+      "wins": 1,
+      "loses": 2,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 2
+    },
+    "513027456605749253": {
+      "type": "None",
+      "name": "TERRRAKER",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "192906362395688960": {
+      "type": "None",
+      "name": "Jaymaster | The Imperium",
+      "tokens": 25,
+      "wins": 6,
+      "loses": 3,
+      "gamesPLayed": 0,
+      "faction": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 8
+    },
+    "419534362418348033": {
+      "type": "None",
+      "name": "Palme",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "218516402552700929": {
+      "type": "None",
+      "name": "abbi",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "567936163613114368": {
+      "type": "None",
+      "name": "LightningSquid",
+      "tokens": 133,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "312677885477650444": {
+      "type": "None",
+      "name": "Petricov",
+      "tokens": 255,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "627198043090845726": {
+      "type": "None",
+      "name": "Jlelos",
+      "tokens": 56,
+      "wins": 2,
+      "loses": 3,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 4
+    },
+    "493359119789588481": {
+      "type": "None",
+      "name": "emilis",
+      "tokens": 913,
+      "wins": 1,
+      "loses": 3,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 3
+    },
+    "722968953567051850": {
+      "type": "None",
+      "name": "GAS Trading Cards",
+      "tokens": 6,
+      "wins": 0,
+      "loses": 2,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 1
+    },
+    "257617996384698368": {
+      "type": "None",
+      "name": "KaiKing",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "679601666802057228": {
+      "type": "None",
+      "name": "Memuoryy",
+      "tokens": 16,
+      "wins": 7,
+      "loses": 2,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 8
+    },
+    "962747140348719134": {
+      "type": "None",
+      "name": "Jeez5930",
+      "tokens": 21,
+      "wins": 1,
+      "loses": 2,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 2
+    },
+    "743107984518938746": {
+      "type": "None",
+      "name": "Mitamorukiari",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "940383642637713418": {
+      "type": "None",
+      "name": "butter_dog",
+      "tokens": 104,
+      "wins": 1,
+      "loses": 5,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 5
+    },
+    "907762283420201000": {
+      "type": "None",
+      "name": "toothpick_ty",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "630450040875515944": {
+      "type": "None",
+      "name": "Shardblade",
+      "tokens": 438,
+      "wins": 6,
+      "loses": 5,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 10
+    },
+    "586258499164438528": {
+      "type": "None",
+      "name": "Geforce",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "859078364979527790": {
+      "type": "None",
+      "name": "FEGGZ-㊗SCΨMEヤ㊗",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "673105003447058433": {
+      "type": "None",
+      "name": "DemiGod Artist in the Shadows",
+      "tokens": 513,
+      "wins": 0,
+      "loses": 2,
+      "gamesPLayed": 0,
+      "faction": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 1
+    },
+    "354709356182372353": {
+      "type": "None",
+      "name": "Small",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "496313758944329739": {
+      "type": "None",
+      "name": "tombau2004",
+      "tokens": 6,
+      "wins": 0,
+      "loses": 1,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "202884278273441792": {
+      "type": "None",
+      "name": "Raging",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "713016687124938905": {
+      "type": "None",
+      "name": "Johncus9",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "239838544598794240": {
+      "type": "None",
+      "name": "Alexxxstaub",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "861351362671804436": {
+      "type": "None",
+      "name": "Cube Guy | The Imperium",
+      "tokens": 126,
+      "wins": 4,
+      "loses": 7,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 10
+    },
+    "693660279585767446": {
+      "type": "None",
+      "name": "Wardogz",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "892161755432767538": {
+      "type": "None",
+      "name": "Rouge",
+      "tokens": 7,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 12,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "597838137477300244": {
+      "type": "None",
+      "name": "R2 | Gladiators",
+      "tokens": 238,
+      "wins": 11,
+      "loses": 7,
+      "gamesPLayed": 0,
+      "faction": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 17
+    },
+    "745376709389451315": {
+      "type": "None",
+      "name": "LUN | -Kevin-",
+      "tokens": 925,
+      "wins": 10,
+      "loses": 16,
+      "gamesPLayed": 0,
+      "faction": 12,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 25
+    },
+    "498454401397030912": {
+      "type": "None",
+      "name": "vnlasweetcrm",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "709104559901114378": {
+      "type": "None",
+      "name": "that1snakeguy ~|~ lunarian",
+      "tokens": 698,
+      "wins": 2,
+      "loses": 4,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 5
+    },
+    "294960514621243393": {
+      "type": "None",
+      "name": "Tank-BOT",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "199264285367468032": {
+      "type": "None",
+      "name": "Niegil",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "662662607089696782": {
+      "type": "None",
+      "name": "LeBibo | Lucky Nekos",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "458276816071950337": {
+      "type": "None",
+      "name": "ServerStats",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "295484997031428097": {
+      "type": "None",
+      "name": "Chef",
+      "tokens": 370,
+      "wins": 7,
+      "loses": 6,
+      "gamesPLayed": 0,
+      "faction": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 12
+    },
+    "118219296634568712": {
+      "type": "None",
+      "name": "Blade",
+      "tokens": 5,
+      "wins": 0,
+      "loses": 1,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "170358485370798081": {
+      "type": "None",
+      "name": "chef chun [The Drift League]",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "586473552094691328": {
+      "type": "None",
+      "name": "SID IS REALLY SUS",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "765217500404383794": {
+      "type": "None",
+      "name": "PetrPolsko123",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "713190899496124416": {
+      "type": "None",
+      "name": "Seemoose",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "400078461114253332": {
+      "type": "None",
+      "name": "Digital | Digtial Imperium",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "882367131554045962": {
+      "type": "None",
+      "name": "Islands",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "967846685768286218": {
+      "type": "None",
+      "name": "Botnaut ME-74",
+      "tokens": 135,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "155491944766636032": {
+      "type": "None",
+      "name": "Texan",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "732744239351332944": {
+      "type": "None",
+      "name": "bendyinkdemon",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "736615070703812689": {
+      "type": "None",
+      "name": "assasin3257",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "849491654108381214": {
+      "type": "None",
+      "name": "Luisi",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 13,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "826258564312989766": {
+      "type": "None",
+      "name": "shengchang",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "743772340021887086": {
+      "type": "None",
+      "name": "Beanshine",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "370641110785064971": {
+      "type": "None",
+      "name": "VisionaryOne",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "717457648911384576": {
+      "type": "None",
+      "name": "SEBASTIANREYNOSO",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "190233501650386945": {
+      "type": "None",
+      "name": "Koix",
+      "tokens": 9881,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "747538328135663666": {
+      "type": "None",
+      "name": "ATTICUS FINCH",
+      "tokens": 3,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "398320000395509780": {
+      "type": "None",
+      "name": "thedanwtheplan",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "719967257773604934": {
+      "type": "None",
+      "name": "sxicidestxnce",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "863887600745054268": {
+      "type": "None",
+      "name": "Jakethedog",
+      "tokens": 134,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "707305255737753721": {
+      "type": "None",
+      "name": "Basher",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "971141330241736804": {
+      "type": "None",
+      "name": "Bruce Lee",
+      "tokens": 3,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "278267787627986945": {
+      "type": "None",
+      "name": "hung",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "301484146990252035": {
+      "type": "None",
+      "name": "A_dam_sand_er",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "863537537729429524": {
+      "type": "None",
+      "name": "UwU_bobo1973",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "972891140611268699": {
+      "type": "None",
+      "name": "Boodi",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "763358986237640705": {
+      "type": "None",
+      "name": ".-.'-'.-.",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "384525847731765249": {
+      "type": "None",
+      "name": "BlondanProud",
+      "tokens": 20,
+      "wins": 1,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "588424995672424459": {
+      "type": "None",
+      "name": "just rik",
+      "tokens": 70,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "690619229170434138": {
+      "type": "None",
+      "name": "Explorer104343",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "974544425298583602": {
+      "type": "None",
+      "name": "Aurorakk",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "618045333112356875": {
+      "type": "None",
+      "name": "aaddddee",
+      "tokens": 127,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "968616039678091304": {
+      "type": "None",
+      "name": "Cheng_Chaoxiang🎖",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "493782127297560578": {
+      "type": "None",
+      "name": "NikiTheIdiot",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "262702007100506123": {
+      "type": "None",
+      "name": "Duende",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "622212791012425750": {
+      "type": "None",
+      "name": "BoosBatch",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "977377816796614766": {
+      "type": "None",
+      "name": "tothemoon🚀",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "826616825710116865": {
+      "type": "None",
+      "name": "Stx",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "287679361446838272": {
+      "type": "None",
+      "name": "yedayuri",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "945343500940091392": {
+      "type": "None",
+      "name": "Resolve.sol | CrackHeadz",
+      "tokens": 117,
+      "wins": 0,
+      "loses": 1,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "162278237311991809": {
+      "type": "None",
+      "name": "Brightclaw",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "574652751745777665": {
+      "type": "None",
+      "name": "Virtual Fisher",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "379842841972703232": {
+      "type": "None",
+      "name": "Smol Donauts",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "762009278247862312": {
+      "type": "None",
+      "name": "Moist_bloke",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "491676167095451658": {
+      "type": "None",
+      "name": "LENNY( ͡° ͜ʖ ͡°)",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "925550391297474611": {
+      "type": "None",
+      "name": "Longlog",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 14,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "563384012010160128": {
+      "type": "None",
+      "name": "josephtaylor.art",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "756903070310596718": {
+      "type": "None",
+      "name": "Mork",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "826133155928735784": {
+      "type": "None",
+      "name": "cheems",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "832498623442714654": {
+      "type": "None",
+      "name": "Thecryptomaniac",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "984943790013968414": {
+      "type": "None",
+      "name": "Alaska",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "480769616533127168": {
+      "type": "None",
+      "name": "Val3Krai",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "984981317705924669": {
+      "type": "None",
+      "name": "Goodwin$",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "405729155519610890": {
+      "type": "None",
+      "name": "spain",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "983499463563821146": {
+      "type": "None",
+      "name": "Jerome_loo",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "248242556083634178": {
+      "type": "None",
+      "name": "kallin",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "836124273780719616": {
+      "type": "None",
+      "name": "Mr.Nice Guy",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "850047868559818773": {
+      "type": "None",
+      "name": "Craniumwolf",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "526533507858825236": {
+      "type": "None",
+      "name": "average player",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "598583166814388234": {
+      "type": "None",
+      "name": "moistrice",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "990272211682197534": {
+      "type": "None",
+      "name": "Aless",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "121682615118856192": {
+      "type": "None",
+      "name": "lilScrawn",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "487328045275938828": {
+      "type": "None",
+      "name": "GarticBOT",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "901104872282271774": {
+      "type": "None",
+      "name": "noob13",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "992846992973762580": {
+      "type": "None",
+      "name": "Declan Jacob",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "795068620283314228": {
+      "type": "None",
+      "name": "weekendcannibal",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "571415436516917270": {
+      "type": "None",
+      "name": "Begula✅",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "735893463521820754": {
+      "type": "None",
+      "name": "! jam",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "404793280946110464": {
+      "type": "None",
+      "name": "dice",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "689025223030210763": {
+      "type": "None",
+      "name": "kosi_nik",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "995439889149608096": {
+      "type": "None",
+      "name": "Anderson Watts✪",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "866400952454348841": {
+      "type": "None",
+      "name": "CubeHosting",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "976053179265470464": {
+      "type": "None",
+      "name": "Tomato",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "878181555720319016": {
+      "type": "None",
+      "name": "ALPHA BOT",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "852818896133554196": {
+      "type": "None",
+      "name": "BBBBBBBB",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "571020385684946944": {
+      "type": "None",
+      "name": "Honbra",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "975468911392850040": {
+      "type": "None",
+      "name": "Boxers Utility B",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "895223933215838228": {
+      "type": "None",
+      "name": "tommy_figures",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "998910178420338739": {
+      "type": "None",
+      "name": "Mano",
+      "tokens": 161,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "765810693576196117": {
+      "type": "None",
+      "name": "Mrrish",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "759812634895188018": {
+      "type": "None",
+      "name": "binderek",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "162524329748201472": {
+      "type": "None",
+      "name": "Mr Boombastic",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "894186579650830356": {
+      "type": "None",
+      "name": "Jormogander",
+      "tokens": 6,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "981809621733875732": {
+      "type": "None",
+      "name": "AlekosbXenoud",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "520674852080713739": {
+      "type": "None",
+      "name": "Tragi",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1005863957061455954": {
+      "type": "None",
+      "name": "Gardner",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "770643523020128287": {
+      "type": "None",
+      "name": "Sajy",
+      "tokens": 194,
+      "wins": 0,
+      "loses": 1,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "354117825503166464": {
+      "type": "None",
+      "name": "Wonton",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "438116150845374484": {
+      "type": "None",
+      "name": "jambaseer [MST]",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "936929561302675456": {
+      "type": "None",
+      "name": "Midjourney Bot",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "272239074826387456": {
+      "type": "None",
+      "name": "Mark Zuckerberg",
+      "tokens": 3624,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "689919574425993287": {
+      "type": "None",
+      "name": "emo",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "455820534819848214": {
+      "type": "None",
+      "name": "DeadHeadz",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1010239008414113924": {
+      "type": "None",
+      "name": "Anderson Watts ✪",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "269115623332773888": {
+      "type": "None",
+      "name": "gauda",
+      "tokens": 17,
+      "wins": 1,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "985296899806466118": {
+      "type": "None",
+      "name": "Stephanie Watson",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "717375411264421969": {
+      "type": "None",
+      "name": "leondris555",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "547148293096865854": {
+      "type": "None",
+      "name": "jesse.",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "887478746628636723": {
+      "type": "None",
+      "name": "pot",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "354663411193348096": {
+      "type": "None",
+      "name": "ItzSvel",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "380748180427374593": {
+      "type": "None",
+      "name": "superhempfi",
+      "tokens": 72,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "329730038381543424": {
+      "type": "None",
+      "name": "Sgt.Roflol",
+      "tokens": 127,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "452847638199664651": {
+      "type": "None",
+      "name": "Pixel",
+      "tokens": 766,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "697440468677427250": {
+      "type": "None",
+      "name": "! -Angus- 𓆩♰𓆪",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "334838341029593093": {
+      "type": "None",
+      "name": "vicelo",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "808694504726724628": {
+      "type": "None",
+      "name": "Neo",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "959580063651750018": {
+      "type": "None",
+      "name": "MHF Cream Cat",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "923058645015605310": {
+      "type": "None",
+      "name": "psilo",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1015319062752006326": {
+      "type": "None",
+      "name": "Jack.",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1016361925413711872": {
+      "type": "None",
+      "name": "coinswap",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "401448178949423105": {
+      "type": "None",
+      "name": "Ziggy.",
+      "tokens": 505,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "532131762856525826": {
+      "type": "None",
+      "name": "Fuf",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "386570270212620289": {
+      "type": "None",
+      "name": "Ocean_boy",
+      "tokens": 7355,
+      "wins": 0,
+      "loses": 4,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": 3
+    },
+    "351607409506123776": {
+      "type": "None",
+      "name": "Leksi",
+      "tokens": 268,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "690774110006935592": {
+      "type": "None",
+      "name": "iamthebodes",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1023628927287169074": {
+      "type": "None",
+      "name": "J_Mill$",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "708682925478248474": {
+      "type": "None",
+      "name": "Broham",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "959484974829043753": {
+      "type": "None",
+      "name": "sb",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1025117496627449860": {
+      "type": "None",
+      "name": "Caæch",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "605895276485410816": {
+      "type": "None",
+      "name": "Maple's Dad",
+      "tokens": 1686,
+      "wins": 0,
+      "loses": 1,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "gamesPlayed": null
+    },
+    "371492165911838721": {
+      "type": "None",
+      "name": "cardigans5",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "532966135675748374": {
+      "type": "None",
+      "name": "goxhirst",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "282278313442148354": {
+      "type": "None",
+      "name": "HOLDEN",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "543512414294114305": {
+      "type": "None",
+      "name": "Just Animation",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1032686071428939866": {
+      "type": "None",
+      "name": "mafianot",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 12,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1023372163123789854": {
+      "type": "None",
+      "name": "Anderson Watts",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1035289574898925629": {
+      "type": "None",
+      "name": "lydia",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1035320398713204776": {
+      "type": "None",
+      "name": "Charlse",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1030441210072018971": {
+      "type": "None",
+      "name": "Emma Robert🇺🇲",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "726317985936965692": {
+      "type": "None",
+      "name": "revan",
+      "tokens": 130,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "602896169034842112": {
+      "type": "None",
+      "name": "Csully",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1038216565478404237": {
+      "type": "None",
+      "name": "Jack.",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "593082020528390155": {
+      "type": "None",
+      "name": "MrTopF",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1041431839690211439": {
+      "type": "None",
+      "name": "lydia",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "726257042960154755": {
+      "type": "None",
+      "name": "ViliusNova",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1042567977565962281": {
+      "type": "None",
+      "name": "EVEREST",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "439097512662401035": {
+      "type": "None",
+      "name": "Gallahad",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "454479809066565664": {
+      "type": "None",
+      "name": "willy4orr",
+      "tokens": 500,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "882730721335197769": {
+      "type": "None",
+      "name": "coookiie nommer",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "558770546196611101": {
+      "type": "None",
+      "name": "Blizzard",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1038537409354276964": {
+      "type": "None",
+      "name": "lydia",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1046751414245937203": {
+      "type": "None",
+      "name": "David.",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "858475005460086794": {
+      "type": "None",
+      "name": "Air Fryer",
+      "tokens": 1007,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "655860309587918848": {
+      "type": "None",
+      "name": "Travishart",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1010984932379730060": {
+      "type": "None",
+      "name": "DeityWa Ge",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1048284183828643943": {
+      "type": "None",
+      "name": "LYDIA",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1008949729775857755": {
+      "type": "None",
+      "name": "Chrith",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "962667660984877086": {
+      "type": "None",
+      "name": "neca",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "265579852856426496": {
+      "type": "None",
+      "name": "!lluciffnta",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "992927859536580669": {
+      "type": "None",
+      "name": "Jeyyy",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "431117236292288522": {
+      "type": "None",
+      "name": "Mountain",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "763833701754732554": {
+      "type": "None",
+      "name": "T E A",
+      "tokens": 1696,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "1050391625559453767": {
+      "type": "None",
+      "name": "Ceyandme",
+      "tokens": 3,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 12,
+        "element": "Bismuth",
+        "imageN": "1",
+        "type": "Psychic"
+      }
+    },
+    "115922589670440960": {
+      "type": "None",
+      "name": "Avery | Assassin League",
+      "tokens": 272,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 12,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 12,
+        "element": "Cobalt",
+        "imageN": "9",
+        "type": "Fire"
+      }
+    },
+    "174237506286518273": {
+      "type": "None",
+      "name": "Beckstation",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPLayed": 0,
+      "faction": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 12,
+        "element": "Sulfur",
+        "imageN": "4",
+        "type": "Air"
+      }
+    }
+  },
+  "eventStart": true
+}

@@ -1,0 +1,124 @@
+# Query: const TheMan
+# ContextLines: 1
+
+33 results - 12 files
+
+commands/arena.js:
+    34  
+    35:         // const TheMan = 398907393427243008
+    36          // if (message.author.id != TheMan) {
+
+   441          if (args[1].toLowerCase() == "leaderboard") {
+   442:             const TheMan = 398907393427243008
+   443              if (message.author.id != TheMan) {
+
+   466              if (args[2].toLowerCase() == "clear") {
+   467:                 const TheMan = 398907393427243008
+   468                  if (message.author.id != TheMan) {
+
+   480              if (args[2].toLowerCase() == "start") {
+   481:                 const TheMan = 398907393427243008
+   482:                 const TheMan2 = 222153421745160192
+   483                  if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+   491              if (args[2].toLowerCase() == "end") {
+   492:                 const TheMan = 398907393427243008
+   493:                 const TheMan2 = 222153421745160192
+   494                  if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+   548          if (args[1].toLowerCase() == "pause") {
+   549:             const TheMan = 398907393427243008
+   550              if (message.author.id != TheMan) {
+
+  1079                  if (args[2].toLowerCase() == "give") {
+  1080:                     const TheMan = 398907393427243008
+  1081:                     const TheMan2 = 222153421745160192
+  1082                      if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+  1111                  if (args[2].toLowerCase() == "take") {
+  1112:                     const TheMan = 398907393427243008
+  1113:                     const TheMan2 = 222153421745160192
+  1114                      if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+  1147                  if (args[2].toLowerCase() == "set") {
+  1148:                     const TheMan = 398907393427243008
+  1149:                     const TheMan2 = 222153421745160192
+  1150                      if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+  1258          if (args[1].toLowerCase() == "purge") {
+  1259:             const TheMan = 398907393427243008
+  1260              if (message.author.id != TheMan) {
+
+commands/boxnaut.js:
+  17  
+  18:         // const TheMan = 398907393427243008
+  19          // if (message.author.id != TheMan) {
+
+commands/faction.js:
+   18  
+   19:         // const TheMan = 398907393427243008
+   20          // if (message.author.id != TheMan) {
+
+  140              if (args[2].toLowerCase() == "give") {
+  141:                 const TheMan = 398907393427243008
+  142:                 const TheMan2 = 222153421745160192
+  143                  if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+  182              if (args[2].toLowerCase() == "take") {
+  183:                 const TheMan = 398907393427243008
+  184:                 const TheMan2 = 222153421745160192
+  185                  if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+  228              if (args[2].toLowerCase() == "set") {
+  229:                 const TheMan = 398907393427243008
+  230:                 const TheMan2 = 222153421745160192
+  231                  if (message.author.id != TheMan && message.author.id != TheMan2) {
+
+  959  
+  960:             const TheMan = 398907393427243008
+  961              if (message.author.id != TheMan) {
+
+commands/gamble.js:
+  19  
+  20:         // const TheMan = 398907393427243008
+  21          // if (message.author.id != TheMan) {
+
+commands/help.js:
+  23  
+  24:         //const TheMan = 398907393427243008
+  25          //if (message.author.id != TheMan) {
+
+commands/permissions.js:
+  13  
+  14:         const TheMan = 398907393427243008
+  15          if (message.author.id != TheMan) {
+
+commands/reactionrole.js:
+  6  
+  7:         const TheMan = 398907393427243008
+  8          if (message.author.id != TheMan) {
+
+commands/reload.js:
+  23  
+  24:         const TheMan = 398907393427243008
+  25          if (message.author.id != TheMan) {
+
+commands/report.js:
+  6  
+  7:         const TheMan = 398907393427243008
+  8          if (message.author.id != TheMan) {
+
+commands/role.js:
+  6  
+  7:         const TheMan = 398907393427243008
+  8          if (message.author.id != TheMan) {
+
+commands/test.js:
+  20  
+  21:         const TheMan = 398907393427243008
+  22          if (message.author.id != TheMan) {
+
+utilities/checkMessage.js:
+  17  
+  18:         const TheMan = 398907393427243008
+  19          if (message.author.id === client.user.id) {

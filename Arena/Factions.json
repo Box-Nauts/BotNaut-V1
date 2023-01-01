@@ -1,0 +1,689 @@
+{
+  "factions": {
+    "1": {
+      "name": "The Drift League",
+      "lore": "CHANGE ME!",
+      "purpose": "CHANGE ME!",
+      "leader": "198586380622757890",
+      "coleader": "None",
+      "color1": "#007EFF",
+      "color2": "#F2C40E",
+      "discordlink": "discord.gg/boxnauts",
+      "role": "959245135219134474",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 250,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "198586380622757890": {
+          "name": "Scoutbrandon"
+        },
+        "170358485370798081": {
+          "name": "chef chun"
+        }
+      }
+    },
+    "2": {
+      "name": "The Viking Crusaders",
+      "lore": "Still Working On It",
+      "purpose": "We have come to conquer the universe in the name of our ancestors.",
+      "leader": "398907393427243008",
+      "coleader": "None",
+      "color1": "#A51727",
+      "color2": "#C0C0C0",
+      "discordlink": "https://discord.gg/j5gmArkCZN",
+      "role": "959245370209234944",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 700,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "398907393427243008": {
+          "name": "RedStealth"
+        },
+        "294142469472256002": {
+          "name": "Im a dad"
+        },
+        "633750667474763806": {
+          "name": "S3a_Moose"
+        },
+        "729061715697991720": {
+          "name": "Deb"
+        }
+      }
+    },
+    "3": {
+      "name": "The Swarm",
+      "lore": "The swarm is a organism that gained consciousness after centuries of evolution, and it now seeks the purpose to be the perfect organism.\nNothing will stand in the way of the swarm on its way to reach the perfect organism. In its search for the perfect genetics it has ravaged an abundance of planets. \nIts power to endlessly produce new lifeforms lets the swarm overwhelm its enemies. Making sure that the only organisms that will be left alive is the perfect life form.\nFigthing the swarm will prove to be pointless, as the swarm evolves to counter its enemies while battling them.",
+      "purpose": "The Swarms purpose is to eradicate all other lifeforms and to create the ultimate being.",
+      "leader": "776428495789490186",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "discord.gg/boxnauts",
+      "role": "959245599356645447",
+      "locked": "true",
+      "ads": {},
+      "stats": {
+        "tokens": 250,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "776428495789490186": {
+          "name": "Lemon Man"
+        }
+      }
+    },
+    "4": {
+      "name": "The Convergence",
+      "lore": "CHANGE ME!",
+      "purpose": "A hub, a meeting point, a Convergence, a place of trade and security.The Convergence.",
+      "leader": "673912915547652121",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "discord.gg/boxnauts",
+      "role": "959257303482261525",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 0,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "673912915547652121": {
+          "name": "Northernwolf"
+        },
+        "772083313237950485": {
+          "name": "TyingBow"
+        },
+        "358897782381346818": {
+          "name": "MooseMars"
+        },
+        "897903206296854580": {
+          "name": "Broski"
+        },
+        "775227458596372502": {
+          "name": "Mathen"
+        },
+        "609229238255484943": {
+          "name": "moredoing"
+        }
+      }
+    },
+    "5": {
+      "name": "The Order Of The Shadows",
+      "lore": "CHANGE ME!",
+      "purpose": "We are the ones who defend the galaxy against evil. We help the people in need and bring peace to the galaxy. We will conquer and defend.",
+      "leader": "340924842855366656",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "https://discord.gg/FhVCqDqMc8",
+      "role": "959257514053083177",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 750,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "340924842855366656": {
+          "name": "CT-8421 Shadow Lord"
+        },
+        "895784417430229033": {
+          "name": "Connor’s Unseasoned Chicken"
+        },
+        "722478044501245962": {
+          "name": "lexw2"
+        },
+        "163953753127387136": {
+          "name": "Sectormann"
+        },
+        "711111857427185715": {
+          "name": "lavagamer010"
+        },
+        "673105003447058433": {
+          "name": "DemiGod س̴̨̄خ̴͙̿ق̴̿̄ي̷͂͠خ̶͐̄ ̵̆̂"
+        },
+        "857261871424995399": {
+          "name": "boorgir"
+        },
+        "719967257773604934": {
+          "name": "sxicidestxnce"
+        }
+      }
+    },
+    "6": {
+      "name": "Celestial Lords",
+      "lore": "In a really strange galaxy of the boxverse, made of stellar systems with purple and blue stars, a quite huge civilization was living peacefuly in one of the planets. There were on a purple planet, with huge blue rings around the planet. They were doing experiments, but one day, an experiment gone wrong. They were testing a new type of energy, made of condensed stellar energy. But this energy was too strong, and started to infect the population. The virus was very strong, and sadly, they need to flee their planet, and the stellar system, because of heavy loss. Time pass, and they decided to create a faction, and use lilas (color) and cyan to remember their planet, and dark to symbolize space.",
+      "purpose": "Our main goal is to gather lot of resources to become more and more powerful, and maybe one of the biggest faction. We will help as much as possible our members, and we will try to be as peaceful as possible.",
+      "leader": "491876486425346061",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "https://discord.gg/96gqcbQZds",
+      "role": "959257685516222474",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 350,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "491876486425346061": {
+          "name": "Galvator"
+        },
+        "249855901836640265": {
+          "name": "Kitsune"
+        },
+        "497092355891920929": {
+          "name": "maxem270"
+        },
+        "711288064202506262": {
+          "name": "Aléxia69"
+        },
+        "322240196886265857": {
+          "name": "SiilentMelody"
+        }
+      }
+    },
+    "8": {
+      "name": "Sentinel's Guard",
+      "lore": "> Part 1: Serenity Shores\nSerenity Shores is a small seaside village. It is a quaint little town. They are mostly fishers and sailors, using the ocean to gather resources. \n\n> Part 2: The Attack\nIt was a normal day in the Serenity Shores. The waves were calm and the fishermen were about to head out to sea.\nThen a purge faction attacked. The villagers fought the faction the best they could, but it was all in vain. All but one of the boxnauts survived the raid.\n\n> Part 3: The Sentinel Rises\nThat boxnaut would be forever changed by that day. From then on that boxnaut swore an oath to protect all who cannot protect themselves. That boxnaut is is now known as the Sentinel.\n\n> Part 4: The Formation of the Guard\nThe Sentinel knew that they could not do this alone. So they set out to find others who share their ideals to join the Sentinel's cause. The Sentinel named this new faction the Sentinel's Guard.",
+      "purpose": "The Sentinel's Guard was created to protect others. We dedicate ourselves to the protection of boxnaut's who cannot protect themselves. We provide aid to all who need it.\nWe rise from the ashes of destruction to shield others from the flames of evil.",
+      "leader": "469853588349255680",
+      "coleader": "None",
+      "color1": "#daa520",
+      "color2": "#000000",
+      "discordlink": "https://discord.gg/boxnauts",
+      "role": "959257956493430834",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 2125,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "469853588349255680": {
+          "name": "Witheractive.exe"
+        },
+        "759044284086353922": {
+          "name": "Sharky"
+        }
+      },
+      "admins": {
+        "469988969023537155": {
+          "name": "Jevtic"
+        }
+      }
+    },
+    "9": {
+      "name": "Sushi's Empire",
+      "lore": "CHANGE ME!",
+      "purpose": "CHANGE ME!",
+      "leader": "840011399354646548",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "discord.gg/boxnauts",
+      "role": "959258108176240780",
+      "locked": "true",
+      "ads": {},
+      "stats": {
+        "tokens": 250,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "840011399354646548": {
+          "name": "Crimson"
+        }
+      }
+    },
+    "10": {
+      "name": "Arc Legends",
+      "lore": "The Arc Legends were originally a set of mutated prototypes used to help around the Ark Lab. After the invasion of Muleer the mutants escaped the lab through the sewers where an escape pod took them to unknown whereabouts according to this day. The only known fact is they formed a quiet village possibly in the Etheral Rainforest of Marteinwu. The village inhabitants are understood to be main suppliers of the Black Market- providing rare and exotic gems…some from outside realms. The group is known the move as one across the Boxverse supplying Boxnauts with the highest of guilded gear to hero’s of chaos and order. The legends never die…",
+      "purpose": "Our purpose is to find the rarest materials the Boxverse has to offer and to equip Boxnauts with the most reliant gear.",
+      "leader": "222153421745160192",
+      "coleader": "None",
+      "color1": "#FFd700",
+      "color2": "#000000",
+      "discordlink": "discord.gg/boxnauts",
+      "role": "953235361637744670",
+      "locked": "true",
+      "ads": {},
+      "stats": {
+        "tokens": 606,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "222153421745160192": {
+          "name": "Papa Jabba"
+        }
+      }
+    },
+    "11": {
+      "name": "Soul Crafters",
+      "lore": "Still Working On This.....",
+      "purpose": "We create souls that will enhance the universe and its inhabitants.",
+      "leader": "194576706860875776",
+      "coleader": "None",
+      "color1": "#3cda6c",
+      "color2": "#8329cd",
+      "discordlink": "discord.gg/boxnauts",
+      "role": "958985809820811264",
+      "locked": "true",
+      "ads": {},
+      "stats": {
+        "tokens": 4009,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "194576706860875776": {
+          "name": "TinyTank800"
+        },
+        "367588891777171466": {
+          "name": "Skaara_exe"
+        },
+        "230484629226782720": {
+          "name": "BlueRabbitt"
+        }
+      },
+      "admins": {
+        "367588891777171466": {
+          "name": "BlueRabbitt"
+        },
+        "230484629226782720": {
+          "name": "Skaara_exe"
+        }
+      }
+    },
+    "12": {
+      "name": "Assassin's League",
+      "lore": "In the beginning, the Kingdom of Sumertamia held claim to the entirety of planet 72 within galaxy 5. Time passed and mortality took its toll on the king, he decided to split his kingdom amongst his 5 children. As areas of high developmental potential appeared, his children fought over the land, occasionally killing each other in the process. Due to the constant civil war, the less prosperous areas were neglected causing them to spiral into poverty. Bounty-hunting and contractual killing remained the only option. After many years, the entirety of the, once great, faction was split between the descendants of the great king resulting in the end of the catastrophic in-fighting. The multitude of clans that had turned to assassination as a source of income united under one banner to form, what we now know as, the Assassin League",
+      "purpose": "We have the goal of being the most powerful within the boxnaut universe. We will provide to our members whatever is deemed necessary in order for our goal to be accomplished.",
+      "leader": "694315980003737670",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "https://discord.gg/TQxyX2VMXD",
+      "role": "959100849903267900",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 5272,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "694315980003737670": {
+          "name": "DemonSabers"
+        },
+        "723909136345071666": {
+          "name": "Endo"
+        },
+        "360097002664624131": {
+          "name": "FullBodyApoptosis"
+        },
+        "314496018362269697": {
+          "name": "Foulsense | Assasins League"
+        },
+        "553988438764945485": {
+          "name": "Borito20"
+        },
+        "892161755432767538": {
+          "name": "Rouge"
+        },
+        "767577808779345940": {
+          "name": "KenitoHeld"
+        },
+        "745376709389451315": {
+          "name": "- Akira -"
+        },
+        "573565888238714922": {
+          "name": "HpSauce5634"
+        },
+        "529034494007705611": {
+          "name": "Fallenphatom2056"
+        },
+        "1032686071428939866": {
+          "name": "mafianot"
+        },
+        "115922589670440960": {
+          "name": "Nekomancer"
+        }
+      },
+      "admins": {
+        "680814146392162335": {
+          "name": "tacoboy🌮"
+        },
+        "694315980003737670": {
+          "name": "Demonsabers"
+        }
+      }
+    },
+    "13": {
+      "name": "Tachibana Clan",
+      "lore": "Many many moons ago 4 clans lived together on a quaint planet know as Crashing Wave for years there had been small arguments and scuffles but they were all quickly and safely resolved , suddenly a massive war broke out between the 4 neighboring clans, the rulers had long been feuding over the lands shrinking resources which they had shared for centuries, with friends turned to foe the Tachibana Clan decided to fight back , with an army who was prepared and willing to die for their brethern their lives and the safety of the clan they fought relentlessly for days , weeks , and months. Finally as the dust had settled most if not all of the opposition had either been slain or had defected to the Tachibana clan but with food and recourses in the land still being scarce the clan now larger than ever quickly got back on its feet and created a New United Nomadic Clan who’s goal now was to search for new lands in order to maintain peace and unity within the Clan.",
+      "purpose": "Conqueror, Expand and Dominate the Competition by any means necessary.",
+      "leader": "888439278504398959",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "https://discord.gg/fvhwuUvP8H",
+      "role": "959088499175325696",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 9613,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "219877909844721665": {
+          "name": "Sergeanty"
+        },
+        "398738655545393164": {
+          "name": "Dinggo"
+        },
+        "435780278473064448": {
+          "name": "Nuddle"
+        },
+        "623953644651544598": {
+          "name": "baguette"
+        },
+        "482848627606290432": {
+          "name": "alli"
+        },
+        "235601095789903872": {
+          "name": "Microsoft Power Point"
+        },
+        "577923661688864808": {
+          "name": "Evannater"
+        },
+        "732114678142074970": {
+          "name": "Eivar27"
+        },
+        "933116147228889098": {
+          "name": "Bruno☆"
+        },
+        "707561173821685815": {
+          "name": "Dark2205"
+        },
+        "632627553206796327": {
+          "name": "Gullivershaw"
+        },
+        "694990054963019806": {
+          "name": "desevyn"
+        },
+        "353642284614549504": {
+          "name": "elrocco"
+        },
+        "869533314590064700": {
+          "name": "EPICxD3mon"
+        },
+        "689340149070692362": {
+          "name": "BomderBaumeister"
+        },
+        "271676285368008704": {
+          "name": "TheLuk0"
+        },
+        "277410203916304406": {
+          "name": "Hugyadi Mátyás"
+        },
+        "787057715703840799": {
+          "name": "Bonnie BunBun"
+        },
+        "852617074382602292": {
+          "name": "miyamoto musashi"
+        },
+        "350469000582529035": {
+          "name": "Godly"
+        },
+        "589632004698406922": {
+          "name": "Explosive Destiny"
+        },
+        "218516402552700929": {
+          "name": "abbi"
+        },
+        "567936163613114368": {
+          "name": "LightningSquid"
+        },
+        "257617996384698368": {
+          "name": "KaiKing"
+        },
+        "679601666802057228": {
+          "name": "Memuoryy"
+        },
+        "743107984518938746": {
+          "name": "Mitamorukiari"
+        },
+        "685903370548281430": {
+          "name": "SixBeatle"
+        },
+        "907762283420201000": {
+          "name": "toothpick_ty"
+        },
+        "940383642637713418": {
+          "name": "butter_dog"
+        },
+        "883096970481266708": {
+          "name": "DeityWa Ge"
+        },
+        "586258499164438528": {
+          "name": "Geforce"
+        },
+        "451136071368048681": {
+          "name": "Etan~"
+        },
+        "170683265714356224": {
+          "name": "Jare"
+        },
+        "693660279585767446": {
+          "name": "Wardogz"
+        },
+        "679698179717201932": {
+          "name": "Little D v2"
+        },
+        "662662607089696782": {
+          "name": "LeBibo | Lucky Nekos"
+        },
+        "236617826482257920": {
+          "name": "Taps"
+        },
+        "849491654108381214": {
+          "name": "Luisi"
+        },
+        "279895603948027905": {
+          "name": "AimLikeTayK"
+        },
+        "460769377189494785": {
+          "name": "Aether"
+        },
+        "529703436791578644": {
+          "name": "Buttnutsss"
+        }
+      }
+    },
+    "14": {
+      "name": "The Imperium",
+      "lore": "CHANGE ME!",
+      "purpose": "Within the Boxnaut universe, lay the Imperium. Structured and inspired by the Sith Order from Star Wars and the Imperium Of Man from Warhammer 40k. The imperium seeks exploration and unity of the galaxy.",
+      "leader": "318417412926078979",
+      "coleader": "None",
+      "color1": "#C1C1C1",
+      "color2": "#D70A0A",
+      "discordlink": "discord.gg/sCF7vsPy",
+      "role": "959088059813625856",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 276,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "318417412926078979": {
+          "name": "Vilius"
+        },
+        "447497243637841920": {
+          "name": "Nab"
+        },
+        "480404320907427840": {
+          "name": "Benito Banata"
+        },
+        "481124813729955841": {
+          "name": "KomijaroGaming54"
+        },
+        "192906362395688960": {
+          "name": "Jaymaster"
+        },
+        "295484997031428097": {
+          "name": "Chef"
+        },
+        "569763169807892481": {
+          "name": "MaxAteTheDonkey"
+        },
+        "597838137477300244": {
+          "name": "R2"
+        },
+        "618495983797534741": {
+          "name": "Plvrucht"
+        },
+        "228871674097958912": {
+          "name": "Oli606b"
+        },
+        "512677935723839508": {
+          "name": "thims07"
+        },
+        "663803336268578852": {
+          "name": "To0n"
+        },
+        "925550391297474611": {
+          "name": "Longlog"
+        }
+      }
+    },
+    "17": {
+      "name": "The Spectators",
+      "lore": "Change Me!",
+      "purpose": "We are the Spectators, our purpose is to watch over the galaxy and gain and obtain as much information as we can- Good or Bad. We then will sell our work and information to other such factions for gold or gear. We are sight, sight is power.",
+      "leader": "719777599399657522",
+      "coleader": "None",
+      "color1": "#171717",
+      "color2": "#F3F4F7",
+      "discordlink": "https://discord.gg/boxnauts",
+      "role": "966377640275628062",
+      "locked": "false",
+      "ads": {},
+      "stats": {
+        "tokens": 10485,
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0,
+        "event": {
+          "wins": 0,
+          "loses": 0,
+          "gamesPlayed": 0
+        }
+      },
+      "members": {
+        "719777599399657522": {
+          "name": "Yeeples"
+        }
+      }
+    }
+  }
+}

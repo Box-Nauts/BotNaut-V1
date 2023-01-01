@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "Soul Crafters",
+	"lore": "Some long lore about the soul crafters!",
+	"purpose": "Expand our creations across the universe and keep the elemental powers at bay.",
+	"leader": "194576706860875776",
+	"coleader": "None",
+	"color1": "#9d00ff",
+	"color2": "#00d346",
+	"discordlink": "discord.gg/boxnauts",
+    "admins": ["367588891777171466", "230484629226782720"],
+	"locked": true
+  },
+  "ads": {
+	"1": {
+        "ad": "Long list of an ad here."
+    }
+  },
+  "stats": {
+	"tokens": 250,
+	"wins": 0,
+	"loses": 0,
+	"gamesPlayed": 0,
+	"event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+    }
+  }
+}

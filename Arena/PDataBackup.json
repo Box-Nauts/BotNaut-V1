@@ -1,0 +1,2778 @@
+{
+  "players": {
+    "194576706860875776": {
+      "faction": 0,
+      "type": "Void",
+      "name": "TinyTank800 | Paper Bag Games",
+      "tokens": 1000,
+      "wins": 3,
+      "loses": 9,
+      "gamesPlayed": 23,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 19,
+        "element": "Bismuth",
+        "type": "Void",
+        "imageN": 1
+      }
+    },
+    "219877909844721665": {
+      "type": "Psychic",
+      "name": "- Sergie - | The Eternal Empire",
+      "tokens": 1028,
+      "wins": 39,
+      "naut": {
+        "rarity": "Common",
+        "hp": 25,
+        "element": "Hydrogen",
+        "imageN": 5,
+        "type": "Psychic"
+      },
+      "loses": 22,
+      "gamesPlayed": 63,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "809045646635696139": {
+      "type": "None",
+      "name": "Nanoth",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "279895603948027905": {
+      "type": "Void",
+      "name": "Explorer102389 | Super Gremlin",
+      "tokens": 508,
+      "wins": 43,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 18,
+        "element": "Cobalt",
+        "imageN": 2,
+        "type": "Void"
+      },
+      "loses": 58,
+      "gamesPlayed": 132,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "491876486425346061": {
+      "type": "Psychic",
+      "name": "Galvator, Celestial Lord",
+      "tokens": 168,
+      "wins": 9,
+      "naut": {
+        "rarity": "Epic",
+        "hp": 228,
+        "element": "Krypton",
+        "type": "Psychic",
+        "imageN": 1
+      },
+      "loses": 5,
+      "gamesPlayed": 9,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "236617826482257920": {
+      "type": "Electric",
+      "name": "Monkey Man, The Monkey God",
+      "tokens": 2639,
+      "wins": 332,
+      "loses": 267,
+      "gamesPlayed": 752,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Germanium",
+        "imageN": 1,
+        "type": "Electric"
+      }
+    },
+    "888439278504398959": {
+      "type": "Void",
+      "name": "WTRdRINKER | Boxnauts (U.S.A 1)",
+      "tokens": 405,
+      "wins": 46,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 91,
+        "element": "Radium",
+        "type": "Void",
+        "imageN": 1
+      },
+      "loses": 43,
+      "gamesPlayed": 113,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "574652751745777665": {
+      "type": "None",
+      "name": "Virtual Fisher",
+      "tokens": 243,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "569763169807892481": {
+      "type": "Electric",
+      "name": "Forklift Friday | Boxnaut",
+      "tokens": 162,
+      "wins": 1,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 117,
+        "element": "Neon",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 4,
+      "gamesPlayed": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "577923661688864808": {
+      "type": "Electric",
+      "name": "Evannater | Boxnaut",
+      "tokens": 3,
+      "wins": 0,
+      "naut": {
+        "rarity": "Epic",
+        "hp": 243,
+        "element": "Magnesium",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 3,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "398907393427243008": {
+      "type": "Zombie",
+      "name": "RedStealth [Viking Crusaders]",
+      "tokens": 52,
+      "wins": 3,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 116,
+        "element": "Oxygen",
+        "type": "Zombie",
+        "imageN": 1
+      },
+      "loses": 4,
+      "gamesPlayed": 7,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "322240196886265857": {
+      "type": "Electric",
+      "name": "SiilentMelody",
+      "tokens": 1,
+      "wins": 0,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 44,
+        "element": "Carbon",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 2,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "222153421745160192": {
+      "type": "Air",
+      "name": "Papa Jabba | Arc Legends",
+      "tokens": 80,
+      "wins": 3,
+      "naut": {
+        "rarity": "Common",
+        "hp": 22,
+        "element": "Scandium",
+        "imageN": 8,
+        "type": "Air"
+      },
+      "loses": 8,
+      "gamesPlayed": 16,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "883096970481266708": {
+      "type": "Psychic",
+      "name": "ParaplegicLid",
+      "tokens": 67,
+      "wins": 2,
+      "loses": 2,
+      "gamesPlayed": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 46,
+        "element": "Calcium",
+        "type": "Psychic",
+        "imageN": 9
+      }
+    },
+    "367588891777171466": {
+      "type": "Psychic",
+      "name": "Skaara_exe",
+      "tokens": 373,
+      "wins": 15,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 14,
+        "element": "Barium",
+        "type": "Psychic",
+        "imageN": 1
+      },
+      "loses": 7,
+      "gamesPlayed": 19,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "818893638951370782": {
+      "type": "Electric",
+      "name": "jasper | lunarians {dutch 2}",
+      "tokens": 2785,
+      "wins": 257,
+      "naut": {
+        "rarity": "Common",
+        "hp": 8,
+        "element": "Oxygen",
+        "imageN": 10,
+        "type": "Electric"
+      },
+      "loses": 267,
+      "gamesPlayed": 656,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "497092355891920929": {
+      "type": "Nature",
+      "name": "maxem270",
+      "tokens": 1,
+      "wins": 0,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 49,
+        "element": "Iron",
+        "type": "Nature",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "304242291588071424": {
+      "type": "None",
+      "name": "Sybranax | Music",
+      "tokens": 124,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "848305819048869898": {
+      "type": "Nature",
+      "name": "Alex96024|Lunarians",
+      "tokens": 1,
+      "wins": 0,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 48,
+        "element": "Magnesium",
+        "type": "Nature",
+        "imageN": 1
+      },
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "679698179717201932": {
+      "type": "Air",
+      "name": "Little D v2",
+      "tokens": 54,
+      "wins": 2,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 112,
+        "element": "Oxygen",
+        "type": "Air",
+        "imageN": 1
+      },
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "460769377189494785": {
+      "type": "Electric",
+      "name": "Edy | Lunarian Polar Bear",
+      "tokens": 215,
+      "wins": 5,
+      "naut": {
+        "rarity": "Common",
+        "hp": 15,
+        "element": "Scandium",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 3,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "318417412926078979": {
+      "type": "Void",
+      "name": "Vilius, The Emperor",
+      "tokens": 108,
+      "wins": 0,
+      "loses": 3,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 20,
+        "element": "Strontium",
+        "type": "Void",
+        "imageN": 7
+      }
+    },
+    "340924842855366656": {
+      "type": "Void",
+      "name": "CT-8421 Shadow Lord [TOS]",
+      "tokens": 142,
+      "wins": 3,
+      "naut": {
+        "rarity": "Common",
+        "hp": 19,
+        "element": "Helium",
+        "type": "Void",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "138703005158604801": {
+      "type": "Electric",
+      "name": "Ruuyji [Lunarians] (Dane)",
+      "tokens": 13,
+      "wins": 1,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 43,
+        "element": "Caesium",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "480404320907427840": {
+      "type": "Air",
+      "name": "Benito Banata aka Mommy Jabba",
+      "tokens": 51,
+      "wins": 1,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 122,
+        "element": "Radium",
+        "type": "Air",
+        "imageN": 1
+      },
+      "loses": 2,
+      "gamesPlayed": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "447497243637841920": {
+      "type": "Psychic",
+      "name": "Nab [Lt. The Imperium]",
+      "tokens": 0,
+      "wins": 0,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Carbon",
+        "type": "Psychic",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "606526807566450699": {
+      "type": "Nature",
+      "name": "Krokos777 || Lunarians Scientist",
+      "tokens": 748,
+      "wins": 69,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 49,
+        "element": "Bismuth",
+        "imageN": 3,
+        "type": "Nature"
+      },
+      "loses": 62,
+      "gamesPlayed": 165,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "533666662633701426": {
+      "type": "Electric",
+      "name": "KKF",
+      "tokens": 1,
+      "wins": 0,
+      "naut": {
+        "rarity": "Common",
+        "hp": 24,
+        "element": "Chlorine",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "618495983797534741": {
+      "type": "Electric",
+      "name": "Plvrucht | Imperium",
+      "tokens": 742,
+      "wins": 6,
+      "naut": {
+        "rarity": "Legendary",
+        "hp": 474,
+        "element": "Beryllium",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 5,
+      "gamesPlayed": 9,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "591575427248685056": {
+      "type": "Rock",
+      "name": "Lolsoshroom or fish(The Kingdom)",
+      "tokens": 17,
+      "wins": 3,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 48,
+        "element": "Uranium",
+        "imageN": 5,
+        "type": "Rock"
+      },
+      "loses": 6,
+      "gamesPlayed": 7,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "555955826880413696": {
+      "type": "None",
+      "name": "EPIC RPG",
+      "tokens": 176,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "779369428667727953": {
+      "type": "None",
+      "name": "Cubex20972 {dutch3}",
+      "tokens": 259,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "728451362177941545": {
+      "type": "None",
+      "name": "Cobra gei",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "781836484768432160": {
+      "type": "Psychic",
+      "name": "Mrjai, the Moonlord | Lunarians",
+      "tokens": 493,
+      "wins": 17,
+      "naut": {
+        "rarity": "Epic",
+        "hp": 233,
+        "element": "Bismuth",
+        "imageN": 10,
+        "type": "Psychic"
+      },
+      "loses": 21,
+      "gamesPlayed": 47,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "235148962103951360": {
+      "type": "None",
+      "name": "Botnaut Carl",
+      "tokens": 127,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "761707201508540436": {
+      "type": "Void",
+      "name": "Mhm",
+      "tokens": 153,
+      "wins": 12,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 120,
+        "element": "Nitrogen",
+        "imageN": 10,
+        "type": "Void"
+      },
+      "loses": 8,
+      "gamesPlayed": 20,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "558170296339660810": {
+      "type": "None",
+      "name": "Python | Lunarian’s Evangelist",
+      "tokens": 128,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "693880685751959554": {
+      "type": "Poison",
+      "name": "Mr.Slime {Dutch 1}",
+      "tokens": 18,
+      "wins": 1,
+      "naut": {
+        "rarity": "Common",
+        "hp": 24,
+        "element": "Niobium",
+        "type": "Poison",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "918209313233858590": {
+      "type": "Zombie",
+      "name": "JakeFromStateFarm [The 8 Suns",
+      "tokens": 105,
+      "wins": 2,
+      "loses": 4,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Epic",
+        "hp": 244,
+        "element": "Iodine",
+        "imageN": 5,
+        "type": "Zombie"
+      }
+    },
+    "904149102823100487": {
+      "type": "Void",
+      "name": "LT_Lickme [MTF Unit 12]",
+      "tokens": 27,
+      "wins": 2,
+      "naut": {
+        "rarity": "Common",
+        "hp": 16,
+        "element": "Nitrogen",
+        "type": "Void",
+        "imageN": 1
+      },
+      "loses": 3,
+      "gamesPlayed": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "529034494007705611": {
+      "type": "Zombie",
+      "name": "Fallenphatom2056",
+      "tokens": 27,
+      "wins": 2,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 111,
+        "element": "Phosphorus",
+        "type": "Zombie",
+        "imageN": 1
+      },
+      "loses": 5,
+      "gamesPlayed": 9,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "920691854448676884": {
+      "type": "None",
+      "name": "The Secret Service | Arc Legends",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "512677935723839508": {
+      "type": "Water",
+      "name": "thims07,craftman [the lunarians]",
+      "tokens": 13,
+      "wins": 1,
+      "naut": {
+        "rarity": "Legendary",
+        "hp": 500,
+        "element": "Carbon",
+        "type": "Water",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "766776316690432033": {
+      "type": "None",
+      "name": "Bcoins",
+      "tokens": 130,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "529703436791578644": {
+      "type": "Nature",
+      "name": "Buttnutsss",
+      "tokens": 2,
+      "wins": 0,
+      "naut": {
+        "rarity": "Common",
+        "hp": 25,
+        "element": "Carbon",
+        "type": "Nature",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "530082442967646230": {
+      "type": "None",
+      "name": "Giveaway Boat",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "487328045275938828": {
+      "type": "None",
+      "name": "GarticBOT",
+      "tokens": 352,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "773552007251886090": {
+      "type": "None",
+      "name": "ɛȶɛʀռǟʟ_քʀɛʋǟɨʟ(trusted user)",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "856566142222598225": {
+      "type": "None",
+      "name": "Ghost",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "802681996945653800": {
+      "type": "None",
+      "name": "kova",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "638017124174004224": {
+      "type": "Zombie",
+      "name": "quinnary",
+      "tokens": 136,
+      "wins": 13,
+      "loses": 7,
+      "gamesPlayed": 25,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 47,
+        "element": "Magnesium",
+        "imageN": 8,
+        "type": "Zombie"
+      }
+    },
+    "694315980003737670": {
+      "type": "Poison",
+      "name": "Demonsabers《BAL》",
+      "tokens": 25,
+      "wins": 0,
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 23,
+        "element": "Sulfur",
+        "imageN": 5,
+        "type": "Poison"
+      }
+    },
+    "470643117318602773": {
+      "type": "None",
+      "name": "-Sleepy-",
+      "tokens": 139,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "612945588065140746": {
+      "type": "Poison",
+      "name": "Voidster",
+      "tokens": 12,
+      "wins": 1,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 122,
+        "element": "Iodine",
+        "type": "Poison",
+        "imageN": 1
+      },
+      "loses": 2,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "386132865018101770": {
+      "type": "None",
+      "name": "Shen.xd [Lunarian]",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "699726837491957832": {
+      "type": "None",
+      "name": "Chronos the Femboy | Lunarians",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "840011399354646548": {
+      "type": "Void",
+      "name": "Crimson [Sushi]",
+      "tokens": 26,
+      "wins": 2,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Neon",
+        "type": "Void",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "880813905721556992": {
+      "type": "Void",
+      "name": "BlackWolf",
+      "tokens": 62,
+      "wins": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 24,
+        "element": "Potassium",
+        "imageN": 8,
+        "type": "Void"
+      },
+      "gamesPlayed": null
+    },
+    "516090856709685284": {
+      "type": "Psychic",
+      "name": "okMelon",
+      "tokens": 14,
+      "wins": 1,
+      "naut": {
+        "rarity": "Legendary",
+        "hp": 497,
+        "element": "Uranium",
+        "type": "Psychic",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "729061715697991720": {
+      "type": "Air",
+      "name": "Deb (King of The Kingdom)",
+      "tokens": 180,
+      "wins": 1,
+      "loses": 3,
+      "gamesPlayed": 5,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 40,
+        "element": "Selenium",
+        "type": "Air",
+        "imageN": 10
+      },
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "230484629226782720": {
+      "type": "Psychic",
+      "name": "BlueRabbitt | Paper Bag Games",
+      "tokens": 71,
+      "wins": 5,
+      "naut": {
+        "rarity": "Common",
+        "hp": 6,
+        "element": "Caesium",
+        "type": "Psychic",
+        "imageN": 1
+      },
+      "loses": 7,
+      "gamesPlayed": 15,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "190911046511362049": {
+      "type": "Fire",
+      "name": "Link | Rigged Jabber Nation",
+      "tokens": 16,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Phosphorus",
+        "imageN": 5,
+        "type": "Fire"
+      }
+    },
+    "896220921352847430": {
+      "type": "None",
+      "name": "bigboibob [Imperium]",
+      "tokens": 136,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "243503610695122947": {
+      "type": "Electric",
+      "name": "OGKabob-lunarians-yogurt slinger",
+      "tokens": 136,
+      "wins": 10,
+      "naut": {
+        "rarity": "Common",
+        "hp": 3,
+        "element": "Iodine",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 4,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "553694478226030594": {
+      "type": "None",
+      "name": "Vico (DM or @ for support)",
+      "tokens": 130,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "198586380622757890": {
+      "type": "Electric",
+      "name": "Scoutbrandon [The Drift League]",
+      "tokens": 13,
+      "wins": 1,
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Cobalt",
+        "type": "Electric",
+        "imageN": 1
+      },
+      "loses": 1,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "430041518624210945": {
+      "type": "None",
+      "name": "Smooth!",
+      "tokens": 145,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "280607912882208768": {
+      "type": "None",
+      "name": "cabbage bun",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "451136071368048681": {
+      "type": "Void",
+      "name": "Vanity",
+      "tokens": 121,
+      "wins": 10,
+      "naut": {
+        "rarity": "Common",
+        "hp": 2,
+        "element": "Iron",
+        "type": "Void",
+        "imageN": 1
+      },
+      "loses": 6,
+      "gamesPlayed": 17,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "902135098474922005": {
+      "type": "Void",
+      "name": "justsomrdufe",
+      "tokens": 66,
+      "wins": 5,
+      "naut": {
+        "rarity": "Common",
+        "hp": -2,
+        "element": "Krypton",
+        "type": "Void",
+        "imageN": 1
+      },
+      "loses": 11,
+      "gamesPlayed": 20,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "482848627606290432": {
+      "type": "Void",
+      "name": "alli",
+      "tokens": 8,
+      "wins": 0,
+      "loses": 4,
+      "gamesPlayed": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 19,
+        "element": "Phosphorus",
+        "imageN": 10,
+        "type": "Void"
+      }
+    },
+    "314496018362269697": {
+      "type": "Poison",
+      "name": "Foulsense | Boxnaut",
+      "tokens": 122,
+      "wins": 8,
+      "loses": 11,
+      "gamesPlayed": 20,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": -2,
+        "element": "Hydrogen",
+        "imageN": 3,
+        "type": "Poison"
+      }
+    },
+    "922587420468318244": {
+      "type": "None",
+      "name": "JCJ",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "767556230310002698": {
+      "type": "Electric",
+      "name": "kevin_bruh223",
+      "tokens": 98,
+      "wins": 2,
+      "loses": 2,
+      "gamesPlayed": 6,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 18,
+        "element": "Scandium",
+        "imageN": 1,
+        "type": "Electric"
+      }
+    },
+    "726317985936965692": {
+      "type": "Electric",
+      "name": "Revan | The Eternal Empire",
+      "tokens": 46,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 50,
+        "element": "Titanium",
+        "imageN": 1,
+        "type": "Electric"
+      }
+    },
+    "673912915547652121": {
+      "type": "Poison",
+      "name": "Northernwolf12 | The Convergence",
+      "tokens": 87,
+      "wins": 7,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 26,
+        "element": "Fluorine",
+        "type": "Poison",
+        "imageN": 4
+      },
+      "gamesPlayed": 17,
+      "loses": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "782935227395866638": {
+      "type": "Zombie",
+      "name": "NonsonoNicola",
+      "tokens": 0,
+      "wins": 0,
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 50,
+        "element": "Lithium",
+        "type": "Zombie",
+        "imageN": 7
+      },
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "228871674097958912": {
+      "type": "None",
+      "name": "The IronChad [Lunarian's Seer]",
+      "tokens": 175,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "299249568820756480": {
+      "type": "Rock",
+      "name": "Ekard",
+      "tokens": 13,
+      "wins": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 120,
+        "element": "Barium",
+        "imageN": 7,
+        "type": "Rock"
+      },
+      "gamesPlayed": 2,
+      "loses": null
+    },
+    "544953570240233483": {
+      "type": "None",
+      "name": "UgaChagaUga",
+      "tokens": 124,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "514799627241914378": {
+      "type": "None",
+      "name": "ape [russia monkey] | Imperium",
+      "tokens": 126,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "384567089165500416": {
+      "type": "Void",
+      "name": "CARLZIN",
+      "tokens": 17,
+      "wins": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 19,
+        "element": "Phosphorus",
+        "imageN": 8,
+        "type": "Void"
+      },
+      "gamesPlayed": 2,
+      "loses": 1
+    },
+    "159985870458322944": {
+      "type": "None",
+      "name": "MEE6",
+      "tokens": 126,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "870536197892612106": {
+      "type": "None",
+      "name": "cvsteezy",
+      "tokens": 127,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "868986754709979138": {
+      "type": "Zombie",
+      "name": "Xzylene",
+      "tokens": 5,
+      "wins": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 24,
+        "element": "Selenium",
+        "imageN": 6,
+        "type": "Zombie"
+      },
+      "loses": null,
+      "gamesPlayed": null
+    },
+    "170683265714356224": {
+      "type": "Void",
+      "name": "jare | Paper Bag Games",
+      "tokens": 14,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 23,
+        "element": "Scandium",
+        "type": "Void",
+        "imageN": 2
+      }
+    },
+    "611384393713582102": {
+      "type": "Void",
+      "name": "𝔈𝔮𝔲𝔦𝔫𝔬𝔵",
+      "tokens": 14,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 50,
+        "element": "Carbon",
+        "type": "Void",
+        "imageN": 1
+      }
+    },
+    "435780278473064448": {
+      "type": "Fire",
+      "name": "Nuddle",
+      "tokens": 168,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "398702000897916929": {
+      "type": "None",
+      "name": "zsch",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "683584215568351238": {
+      "type": "None",
+      "name": "Cleen",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "694911747143761980": {
+      "type": "Poison",
+      "name": "liαm",
+      "tokens": 142,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Radium",
+        "imageN": 3,
+        "type": "Poison"
+      }
+    },
+    "775227458596372502": {
+      "type": "Void",
+      "name": "[The Convergence] Mathen",
+      "tokens": 8,
+      "wins": 0,
+      "loses": 3,
+      "gamesPlayed": 5,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 115,
+        "element": "Francium",
+        "type": "Void",
+        "imageN": 9
+      }
+    },
+    "776428495789490186": {
+      "type": "Fire",
+      "name": "The Lemon Man",
+      "tokens": 13,
+      "wins": 1,
+      "loses": 1,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 22,
+        "element": "Hydrogen",
+        "type": "Fire",
+        "imageN": 2
+      }
+    },
+    "566528912763650079": {
+      "type": "None",
+      "name": "Mundal / Boxnauts",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "742007924498497606": {
+      "type": "Void",
+      "name": "valcanhoe",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "943107170059296778": {
+      "type": "Poison",
+      "name": "humptydumptyherobad",
+      "tokens": 42,
+      "wins": 3,
+      "loses": 3,
+      "gamesPlayed": 9,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 113,
+        "element": "Sulfur",
+        "imageN": 3,
+        "type": "Poison"
+      }
+    },
+    "358897782381346818": {
+      "type": "Psychic",
+      "name": "MooseMars",
+      "tokens": 4,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 122,
+        "element": "Sodium",
+        "imageN": 7,
+        "type": "Psychic"
+      }
+    },
+    "633750667474763806": {
+      "type": "Rock",
+      "name": "S3a_Moose",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 50,
+        "element": "Magnesium",
+        "imageN": 8,
+        "type": "Rock"
+      }
+    },
+    "925461810352619531": {
+      "type": "None",
+      "name": "izuku midoriya",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "578038956319440936": {
+      "type": "None",
+      "name": "ThatOneSpacePanda",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "350469000582529035": {
+      "type": "Void",
+      "name": "𝓖𝓸𝓭𝓵𝔂 ♡",
+      "tokens": 12,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 25,
+        "element": "Chlorine",
+        "imageN": 8,
+        "type": "Void"
+      }
+    },
+    "553988438764945485": {
+      "type": "None",
+      "name": "Jare's boy",
+      "tokens": 143,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "261179915892686849": {
+      "type": "None",
+      "name": "[218.]TheLonelyWolf🐺",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "880163590965960756": {
+      "type": "None",
+      "name": "Glasses | Avatar",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "571399311770910731": {
+      "type": "Electric",
+      "name": "Plucat",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 25,
+        "element": "Carbon",
+        "imageN": 7,
+        "type": "Electric"
+      }
+    },
+    "704834051822845974": {
+      "type": "None",
+      "name": "Semi",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "909555743424905299": {
+      "type": "None",
+      "name": "HERO",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "478155201061322755": {
+      "type": "None",
+      "name": "Funniery",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "407627206618251274": {
+      "type": "None",
+      "name": "Cookie",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "946276431221108766": {
+      "type": "None",
+      "name": "ronald25703",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "674959845337726996": {
+      "type": "None",
+      "name": ">lolo64<",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "424278805637496833": {
+      "type": "None",
+      "name": "Isaacazam",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "804430560494616626": {
+      "type": "Nature",
+      "name": "DV",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 50,
+        "element": "Sodium",
+        "imageN": 6,
+        "type": "Electric"
+      }
+    },
+    "413507623925841930": {
+      "type": "Void",
+      "name": "LUMPYMELON",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Hydrogen",
+        "imageN": 2,
+        "type": "Void"
+      }
+    },
+    "608811979842519080": {
+      "type": "None",
+      "name": "Whipcash",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "850689025521877042": {
+      "type": "Zombie",
+      "name": "ABCDE",
+      "tokens": 118,
+      "wins": 9,
+      "loses": 12,
+      "gamesPlayed": 23,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 10,
+        "element": "Strontium",
+        "imageN": 3,
+        "type": "Zombie"
+      }
+    },
+    "710934436518297770": {
+      "type": "None",
+      "name": "BeautifulBeast",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "680814146392162335": {
+      "type": "Void",
+      "name": "tacoboy🌮",
+      "tokens": 50,
+      "wins": 1,
+      "loses": 2,
+      "gamesPlayed": 8,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 113,
+        "element": "Uranium",
+        "imageN": 7,
+        "type": "Void"
+      }
+    },
+    "943680255435112538": {
+      "type": "None",
+      "name": "Peter Baskin",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "895784417430229033": {
+      "type": "None",
+      "name": "Bob Nobody (Bringer TOS)",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "294142469472256002": {
+      "type": "None",
+      "name": "Im a dad",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "335965251608510475": {
+      "type": "None",
+      "name": "HypNIK⌖",
+      "tokens": 129,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "673214418128994315": {
+      "type": "None",
+      "name": "TCB",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "893414514593239062": {
+      "type": "Air",
+      "name": "mina10 | ALTAVA",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 19,
+        "element": "Krypton",
+        "imageN": 9,
+        "type": "Air"
+      }
+    },
+    "458698927093448704": {
+      "type": "Fire",
+      "name": "leper1337",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Krypton",
+        "imageN": 8,
+        "type": "Fire"
+      }
+    },
+    "736429332251017296": {
+      "type": "None",
+      "name": "Sepu",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "475959475313049601": {
+      "type": "None",
+      "name": "ذھعیوہد",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "728201184917323857": {
+      "type": "None",
+      "name": "Duckyツ",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "786690941909205073": {
+      "type": "Void",
+      "name": "Glitchwolf",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Bromine",
+        "imageN": 7,
+        "type": "Void"
+      }
+    },
+    "834758348641271809": {
+      "type": "None",
+      "name": "H U M A N  𝔹𝕖𝕒𝕣",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "668875136182517760": {
+      "type": "None",
+      "name": "『Teun』",
+      "tokens": 137,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "799715674233765938": {
+      "type": "Water",
+      "name": "daanark",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 2,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 20,
+        "element": "Bromine",
+        "imageN": 7,
+        "type": "Water"
+      }
+    },
+    "854422285757710357": {
+      "type": "None",
+      "name": "Tom nottop",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "358713230652342283": {
+      "type": "None",
+      "name": "Eloli",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "741759467091132577": {
+      "type": "None",
+      "name": "parzapl",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "753183803807105086": {
+      "type": "Nature",
+      "name": "boxheadmcgee",
+      "tokens": 28,
+      "wins": 2,
+      "loses": 1,
+      "gamesPlayed": 4,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Uncommon",
+        "hp": 46,
+        "element": "Argon",
+        "imageN": 6,
+        "type": "Nature"
+      }
+    },
+    "522838290467127297": {
+      "type": "None",
+      "name": "soup | boxnauts",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "948754699341926412": {
+      "type": "None",
+      "name": "wunkyfunky | Tachibana Clan",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "399694679731470336": {
+      "type": "None",
+      "name": "mr_slmander",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "772083313237950485": {
+      "type": "Electric",
+      "name": "TyingBow",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 1,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Epic",
+        "hp": 247,
+        "element": "Titanium",
+        "imageN": 3,
+        "type": "Electric"
+      }
+    },
+    "710373497251037194": {
+      "type": "None",
+      "name": "metameta",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "687386785927659558": {
+      "type": "None",
+      "name": "Shark_sharon",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "767577808779345940": {
+      "type": "None",
+      "name": "KenitoHeld",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "667727918062895106": {
+      "type": "None",
+      "name": "Violet|Lunarians",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "712742462858330155": {
+      "type": "None",
+      "name": "♕ 𝓛𝓾𝓬𝓪™",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "734695191906353244": {
+      "type": "None",
+      "name": "the queen",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "245667559473545216": {
+      "type": "None",
+      "name": "Sajj",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "711592143478587454": {
+      "type": "None",
+      "name": "Rex. { Vibrant Nomads }",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "798632834490302484": {
+      "type": "None",
+      "name": "Circis2",
+      "tokens": 126,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "529291328648118273": {
+      "type": "None",
+      "name": "Moistcheese",
+      "tokens": 129,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "506776721874223134": {
+      "type": "None",
+      "name": "Holy 🅱read 🍞 [From Poland]",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "358990491766882307": {
+      "type": "None",
+      "name": "stachtsan",
+      "tokens": 136,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "951439752563933195": {
+      "type": "Fire",
+      "name": "kianisgay69",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "GODLIKE",
+        "hp": 2500,
+        "element": "Chlorine",
+        "imageN": 2,
+        "type": "Fire"
+      }
+    },
+    "323433334103474177": {
+      "type": "None",
+      "name": "MacEgg",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "525184724252098591": {
+      "type": "Void",
+      "name": "ACE",
+      "tokens": 19,
+      "wins": 1,
+      "loses": 2,
+      "gamesPlayed": 3,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 18,
+        "element": "Scandium",
+        "imageN": 7,
+        "type": "Void"
+      }
+    },
+    "947891563181277224": {
+      "type": "None",
+      "name": "zombierp6463",
+      "tokens": 134,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "843909700424958003": {
+      "type": "Water",
+      "name": "Rogue",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 25,
+        "element": "Scandium",
+        "imageN": 1,
+        "type": "Water"
+      }
+    },
+    "737469460465713174": {
+      "type": "None",
+      "name": "Just a normal person",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "886847504371548192": {
+      "type": "None",
+      "name": "Yeahfuxkno",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "525313721694945291": {
+      "type": "Electric",
+      "name": "NOAH | Lunarians",
+      "tokens": 2,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Legendary",
+        "hp": 500,
+        "element": "Chlorine",
+        "imageN": 7,
+        "type": "Electric"
+      }
+    },
+    "882039565026734090": {
+      "type": "None",
+      "name": "TheFalcon5572",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "909093099995803688": {
+      "type": "Void",
+      "name": "[Y]VenomZ 🧊",
+      "tokens": 1,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Nitrogen",
+        "imageN": 6,
+        "type": "Void"
+      }
+    },
+    "747705324181389413": {
+      "type": "None",
+      "name": "Don∆",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "449637552710877184": {
+      "type": "None",
+      "name": "N3VAMIND",
+      "tokens": 125,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "518276865035599875": {
+      "type": "None",
+      "name": "AverageJoeTr33 | Avatar",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "623953644651544598": {
+      "type": "Air",
+      "name": "baguette",
+      "tokens": 0,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Common",
+        "hp": 25,
+        "element": "Bromine",
+        "imageN": 1,
+        "type": "Air"
+      }
+    },
+    "659369601125318677": {
+      "type": "Air",
+      "name": "Thenkey",
+      "tokens": 14,
+      "wins": 1,
+      "loses": 0,
+      "gamesPlayed": 1,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      },
+      "naut": {
+        "rarity": "Rare",
+        "hp": 125,
+        "element": "Germanium",
+        "imageN": 9,
+        "type": "Air"
+      }
+    },
+    "269290358859366400": {
+      "type": "None",
+      "name": "MartianPK",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    },
+    "583188514989146122": {
+      "type": "None",
+      "name": "SimplyNotMatt [Lt. The Imperium]",
+      "tokens": 124,
+      "wins": 0,
+      "loses": 0,
+      "gamesPlayed": 0,
+      "event": {
+        "wins": 0,
+        "loses": 0,
+        "gamesPlayed": 0
+      }
+    }
+  },
+  "eventStart": true
+}
